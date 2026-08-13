@@ -1,0 +1,606 @@
+{
+  "items": [
+    {
+      "description": "This is a list of according to us. You can prove us wrong on the contributing page.",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Special Thanks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2FA"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Ads & Trackers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Alarm"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Android Customization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Anime & Manga"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "App Backup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Background Noise"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Barcode Scanner"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Browser"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Calculator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Calendar"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Camera"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ChatGPT"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Chess"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Coctails Making"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contacts"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Decision-Making"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Device Synchronization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dialer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Diary"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Download Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Discord"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Document Scanner"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Drawing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "E-book Reader"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Email"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Emulation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "F-Droid"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File Synchronization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Finance"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Firewall"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Flash Cards"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Flashlight"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Forgejo & Gitea"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gallery"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GitHub Client"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Google Play"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Health"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Icon Pack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IDE"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Processing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Instant Messaging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Keyboard"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Knowledge"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Language"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Launcher"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lemmy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Loyalty Card"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Maps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mastodon"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Matrix Client"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Meditation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Music Downloader"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Music Player"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Music Scrobbler"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Notes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OCR"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Office Suite"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Package Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Password Manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PDF Viewer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plants"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Public Transport Assistant"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Podcast"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Reddit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RNG"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RSS Reader"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SMS Messenger"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Self Hosted"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shazam"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Spotify"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SSH client"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Stargazing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Step Counting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Streaming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Survival"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "System Cleaner"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Terminal Emulator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text Editor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Timers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "To-Do List"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Torrenting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Trackers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T11:30:57Z",
+            "owner": "FriesI23",
+            "repo": "mhabit",
+            "stars": 1451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official page",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T11:30:57Z",
+            "owner": "FriesI23",
+            "repo": "mhabit",
+            "stars": 1451
+          }
+        }
+      ],
+      "title": "Table Habit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Translator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Twitch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unit Converter"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "URL Cleaner"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Player"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "VNC client"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "VNC server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Voice Recorder"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Weather"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wallet"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wikipedia"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Workout"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "YouTube"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Special thanks to"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AWESOME PEOPLE that developed or still develops this AWESOME SOFTWARE"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors to this repo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "pluja/awesome-privacy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "offa/android-foss"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JStumpp/awesome-android"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "AlternativeTo.net"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "IzzyOnDroid"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DivestOS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PRISM Break"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Privacy Friendly Apps"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:30:44.518Z",
+    "original_repository": "Psyhackological/AAA",
+    "original_repository_sha": "53f08d37e442b9cbde752cb5fb513271be24c087",
+    "enhanced_repository": "enhansome/enhansome-AAA",
+    "enhanced_repository_description": null,
+    "title": "Awesome ⬆ Go back ⬆ with stars"
+  }
+}
