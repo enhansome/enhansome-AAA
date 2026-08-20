@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 632693436,
                 "language": "Dart",
-                "last_commit": "2026-08-19T18:51:10Z",
+                "last_commit": "2026-08-20T14:56:26Z",
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1455
+                "stars": 1456
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 632693436,
                 "language": "Dart",
-                "last_commit": "2026-08-19T18:51:10Z",
+                "last_commit": "2026-08-20T14:56:26Z",
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1455
+                "stars": 1456
               }
             }
           ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-07-15T12:14:09Z",
             "owner": "pluja",
             "repo": "awesome-privacy",
-            "stars": 19555
+            "stars": 19568
           },
           "title": "pluja/awesome-privacy"
         },
@@ -69,10 +69,10 @@
             "archived": false,
             "id": 85591077,
             "language": "Python",
-            "last_commit": "2026-08-19T15:35:20Z",
+            "last_commit": "2026-08-20T15:12:26Z",
             "owner": "offa",
             "repo": "android-foss",
-            "stars": 10902
+            "stars": 10940
           },
           "title": "offa/android-foss"
         },
@@ -87,7 +87,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12286
+            "stars": 12290
           },
           "title": "JStumpp/awesome-android"
         }
@@ -96,7 +96,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:13:33.064Z",
+    "last_updated": "2026-08-20T23:16:08.461Z",
     "original_repository": "Psyhackological/AAA",
     "original_repository_id": 428383546,
     "original_repository_sha": "53f08d37e442b9cbde752cb5fb513271be24c087",
