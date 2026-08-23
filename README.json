@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 632693436,
                 "language": "Dart",
-                "last_commit": "2026-08-22T08:17:46Z",
+                "last_commit": "2026-08-23T11:47:41Z",
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1458
+                "stars": 1457
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 632693436,
                 "language": "Dart",
-                "last_commit": "2026-08-22T08:17:46Z",
+                "last_commit": "2026-08-23T11:47:41Z",
                 "owner": "FriesI23",
                 "repo": "mhabit",
-                "stars": 1458
+                "stars": 1457
               }
             }
           ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-07-15T12:14:09Z",
             "owner": "pluja",
             "repo": "awesome-privacy",
-            "stars": 19582
+            "stars": 19592
           },
           "title": "pluja/awesome-privacy"
         },
@@ -72,7 +72,7 @@
             "last_commit": "2026-08-22T18:35:32Z",
             "owner": "offa",
             "repo": "android-foss",
-            "stars": 10976
+            "stars": 10990
           },
           "title": "offa/android-foss"
         },
@@ -87,7 +87,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12292
+            "stars": 12295
           },
           "title": "JStumpp/awesome-android"
         }
@@ -96,7 +96,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:11:01.674Z",
+    "last_updated": "2026-08-23T23:11:04.469Z",
     "original_repository": "Psyhackological/AAA",
     "original_repository_id": 428383546,
     "original_repository_sha": "53f08d37e442b9cbde752cb5fb513271be24c087",
