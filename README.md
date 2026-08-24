@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors) ⭐ 3,042 | 🐛 5 | 📅 2026-08-11. You can prove us wrong on the [contributing page](CONTRIBUTING.md).
+This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors) ⭐ 3,043 | 🐛 5 | 📅 2026-08-11. You can prove us wrong on the [contributing page](CONTRIBUTING.md).
 
 > App Name :heart: = Someone's Personal Favourite
 >
@@ -137,7 +137,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="AegisIcon" height="64" src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/app/src/main/res/drawable/ic_aegis_iconx.png">
 
-* [x] [GitHub](https://github.com/beemdevelopment/Aegis) ⭐ 12,961 | 🐛 115 | 🌐 Java | 📅 2026-07-16
+* [x] [GitHub](https://github.com/beemdevelopment/Aegis) ⭐ 12,963 | 🐛 115 | 🌐 Java | 📅 2026-07-16
 * [x] [Google Play](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 * [x] [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)
 * [x] [Official page](https://getaegis.app/)
@@ -155,7 +155,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="EnteAuthIcon" height="64" src="https://raw.githubusercontent.com/ente-io/ente/refs/heads/main/mobile/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/ente-io/ente/tree/main/auth#readme) ⭐ 28,478 | 🐛 261 | 🌐 Dart | 📅 2026-08-24
+* [x] [GitHub](https://github.com/ente-io/ente/tree/main/auth#readme) ⭐ 28,486 | 🐛 264 | 🌐 Dart | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=io.ente.auth)
 * [x] [F-Droid](https://f-droid.org/packages/io.ente.auth/)
 * [x] [Official page](https://ente.io/)
@@ -166,7 +166,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="AdAwayIcon" height="64" src="https://raw.githubusercontent.com/AdAway/AdAway/master/app/src/main/res/mipmap-mdpi/icon.png">
 
-* [x] [GitHub](https://github.com/AdAway/AdAway) ⭐ 9,363 | 🐛 668 | 🌐 C | 📅 2026-02-10
+* [x] [GitHub](https://github.com/AdAway/AdAway) ⭐ 9,362 | 🐛 670 | 🌐 C | 📅 2026-02-10
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/app/org.adaway)
 * [x] [Official page](https://adaway.org/)
@@ -184,7 +184,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="InviZibleProIcon" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
 
-* [x] [GitHub](https://github.com/Gedsh/InviZible) ⭐ 2,751 | 🐛 39 | 🌐 Java | 📅 2026-08-19
+* [x] [GitHub](https://github.com/Gedsh/InviZible) ⭐ 2,753 | 🐛 39 | 🌐 Java | 📅 2026-08-19
 * [x] [Google Play](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)
 * [x] [F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)
 * [x] [Official page](https://invizible.net/en/)
@@ -211,7 +211,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="RethinkDNSIcon" height="64" src="https://play-lh.googleusercontent.com/09-ilhXCKkL8cLZtEDBEhduNW9N88IgM8EW_ghtPakQNNzRY6r1PNTp79vlmq-xz8SA=w240-h480-rw">
 
-* [x] [GitHub](https://github.com/celzero/rethink-app) ⭐ 5,329 | 🐛 628 | 🌐 Kotlin | 📅 2026-08-21
+* [x] [GitHub](https://github.com/celzero/rethink-app) ⭐ 5,331 | 🐛 633 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.celzero.bravedns)
 * [x] [F-Droid](https://f-droid.org/packages/com.celzero.bravedns/)
 * [x] [Official page](https://rethinkdns.com/app)
@@ -220,7 +220,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="TrackerControlIcon" height="64" src="https://trackercontrol.org/images/logo.png">
 
-* [x] [GitHub](https://github.com/TrackerControl/tracker-control-android) ⭐ 2,613 | 🐛 2 | 🌐 Java | 📅 2026-08-22
+* [x] [GitHub](https://github.com/TrackerControl/tracker-control-android) ⭐ 2,613 | 🐛 4 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play)
 * [x] [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/)
 * [x] [Official page](https://trackercontrol.org/)
@@ -229,7 +229,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="URLCheckIcon" height="64" src="https://raw.githubusercontent.com/TrianguloY/UrlChecker/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/TrianguloY/UrlChecker) ⭐ 2,019 | 🐛 123 | 🌐 Java | 📅 2026-08-13
+* [x] [GitHub](https://github.com/TrianguloY/UrlChecker) ⭐ 2,022 | 🐛 123 | 🌐 Java | 📅 2026-08-13
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker)
 * [x] [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
 * [x] [Official page](https://f-droid.org/packages/com.trianguloy.urlchecker/)
@@ -238,7 +238,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="ExodusIcon" height="64" src="https://raw.githubusercontent.com/Exodus-Privacy/exodus-android-app/master/app/src/main/ic_launcher-playstore.png">
 
-* [x] [GitHub](https://github.com/Exodus-Privacy/exodus-android-app) ⭐ 1,029 | 🐛 37 | 🌐 Kotlin | 📅 2025-11-20
+* [x] [GitHub](https://github.com/Exodus-Privacy/exodus-android-app) ⭐ 1,030 | 🐛 37 | 🌐 Kotlin | 📅 2025-11-20
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy)
 * [x] [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/)
 * [x] [Official page](https://exodus-privacy.eu.org/)
@@ -251,7 +251,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="OffGridIcon" height="64" src="https://raw.githubusercontent.com/alichherawalla/off-grid-mobile/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/alichherawalla/off-grid-mobile) ⭐ 2,990 | 🐛 143 | 🌐 TypeScript | 📅 2026-08-24
+* [x] [GitHub](https://github.com/alichherawalla/off-grid-mobile) ⭐ 2,991 | 🐛 143 | 🌐 TypeScript | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=ai.offgridmobile)
 * [ ] F-Droid
 * [x] [App Store](https://apps.apple.com/in/app/off-grid-on-device-ai/id6740649499)
@@ -262,7 +262,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="whoBIRDIcon" height="64" src="https://raw.githubusercontent.com/woheller69/whoBIRD/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/woheller69/whoBIRD) ⭐ 903 | 🐛 18 | 🌐 Kotlin | 📅 2026-08-02
+* [x] [GitHub](https://github.com/woheller69/whoBIRD) ⭐ 904 | 🐛 18 | 🌐 Kotlin | 📅 2026-08-02
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/org.woheller69.whobird/)
 * [ ] Official page
@@ -284,7 +284,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="ClockIcon" height="64" src="https://raw.githubusercontent.com/BlackyHawky/Clock/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/BlackyHawky/Clock) ⭐ 1,073 | 🐛 29 | 🌐 Java | 📅 2026-07-28
+* [x] [GitHub](https://github.com/BlackyHawky/Clock) ⭐ 1,073 | 🐛 28 | 🌐 Java | 📅 2026-07-28
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
 * [ ] Official page
@@ -293,7 +293,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="ClockYouIcon" height="64" src="https://github.com/you-apps/ClockYou/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/you-apps/ClockYou) ⭐ 641 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-22
+* [x] [GitHub](https://github.com/you-apps/ClockYou) ⭐ 642 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-22
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/com.bnyro.clock/)
 * [x] [Official page](https://you-apps.net/)
@@ -302,7 +302,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FossifyClockIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Clock/main/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/Clock) ⭐ 681 | 🐛 93 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/FossifyOrg/Clock) ⭐ 681 | 🐛 94 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.clock/)
 * [x] [Official page](https://www.fossify.org/)
@@ -322,7 +322,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="Magisk️Icon" height="64" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png">
 
-* [x] [GitHub](https://github.com/topjohnwu/Magisk) ⭐ 62,407 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/topjohnwu/Magisk) ⭐ 62,411 | 🐛 44 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)
 * [x] [Official page](https://topjohnwu.github.io/Magisk/)
@@ -349,7 +349,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="AmarokIcon" height="64" src="https://raw.githubusercontent.com/deltazefiro/Amarok-Hider/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/deltazefiro/Amarok-Hider) ⭐ 3,208 | 🐛 61 | 🌐 Java | 📅 2026-08-11
+* [x] [GitHub](https://github.com/deltazefiro/Amarok-Hider) ⭐ 3,207 | 🐛 61 | 🌐 Java | 📅 2026-08-11
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/pl/packages/deltazero.amarok.foss/)
 * [x] [Official page](https://deltazefiro.github.io/Amarok-doc/)
@@ -360,7 +360,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="AniyomiIcon" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
 
-* [x] [GitHub](https://github.com/jmir1/aniyomi) ⭐ 7,625 | 🐛 375 | 🌐 Kotlin | 📅 2026-08-19
+* [x] [GitHub](https://github.com/jmir1/aniyomi) ⭐ 7,624 | 🐛 375 | 🌐 Kotlin | 📅 2026-08-19
 * [ ] Google Play
 * [ ] F-Droid
 * [x] [Official page](https://aniyomi.jmir.xyz/)
@@ -369,7 +369,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="TachiyomiAZIcon" height="64" src="https://raw.githubusercontent.com/az4521/TachiyomiAZ/master/app/src/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/az4521/TachiyomiAZ) ⭐ 724 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/az4521/TachiyomiAZ) ⭐ 725 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
 * [x] [Official page](https://crafty.moe/tachiAZ.htm)
@@ -378,7 +378,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="TachiyomiSYIcon" height="64" src="https://raw.githubusercontent.com/jobobby04/TachiyomiSY/master/app/src/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/jobobby04/TachiyomiSY) ⭐ 4,109 | 🐛 311 | 🌐 Kotlin | 📅 2026-08-18
+* [x] [GitHub](https://github.com/jobobby04/TachiyomiSY) ⭐ 4,111 | 🐛 311 | 🌐 Kotlin | 📅 2026-08-18
 * [ ] Google Play
 * [ ] F-Droid
 * [ ] Official page
@@ -387,7 +387,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="Kotatsu-RedoIcon" height="64" src="https://raw.githubusercontent.com/KotatsuApp/Kotatsu/devel/metadata/en-US/icon.png">
 
-* [x] [GitHub](https://github.com/Kotatsu-Redo/Kotatsu-Redo) ⭐ 823 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/Kotatsu-Redo/Kotatsu-Redo) ⭐ 825 | 🐛 46 | 🌐 Kotlin | 📅 2026-08-23
 * [ ] Google Play
 * [ ] F-Droid
 * [ ] Official page
@@ -396,7 +396,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="IReaderIcon" height="64" src="https://raw.githubusercontent.com/IReaderorg/IReader/master/android/src/devPreview/res/mipmap-xxxhdpi/ic_launcher_monochrome.png">
 
-* [x] [GitHub](https://github.com/IReaderorg/IReader) ⭐ 922 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-06
+* [x] [GitHub](https://github.com/IReaderorg/IReader) ⭐ 922 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [ ] F-Droid
 * [x] [Official page](https://ireaderorg.netlify.app/)
@@ -457,7 +457,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="SimpleQRIcon" height="64" src="https://raw.githubusercontent.com/tomfong/simple-qr/main/.github/images/icon_round.png">
 
-* [x] [GitHub](https://github.com/tomfong/simple-qr) ⭐ 201 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-19
+* [x] [GitHub](https://github.com/tomfong/simple-qr) ⭐ 202 | 🐛 13 | 🌐 TypeScript | 📅 2026-04-19
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.tomfong.simpleqr)
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.tomfong.simpleqr)
 * [ ] Official page
@@ -468,7 +468,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="CromiteIcon" height="64" src="https://www.cromite.org/app_icon.png">
 
-* [x] [GitHub](https://github.com/uazo/cromite) ⭐ 8,105 | 🐛 537 | 🌐 C++ | 📅 2026-08-23
+* [x] [GitHub](https://github.com/uazo/cromite) ⭐ 8,107 | 🐛 537 | 🌐 C++ | 📅 2026-08-23
 * [ ] Google Play
 * [ ] F-Droid
 * [x] [Official page](https://www.cromite.org/)
@@ -486,7 +486,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="BraveIcon" height="64" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4">
 
-* [x] [GitHub](https://github.com/brave/brave-browser) ⭐ 23,430 | 🐛 10,593 | 📅 2026-08-24
+* [x] [GitHub](https://github.com/brave/brave-browser) ⭐ 23,434 | 🐛 10,597 | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
 * [ ] F-Droid
 * [x] [Official page](https://brave.com/)
@@ -495,7 +495,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="IceravenIcon" height="64" src="https://raw.githubusercontent.com/fork-maintainers/iceraven-browser/f7c14b140e267c110977c271887837e6b64721ce/fork-asset-sources/IceRaven%202.svg">
 
-* [x] [GitHub](https://github.com/fork-maintainers/iceraven-browser) ⭐ 6,367 | 🐛 186 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/fork-maintainers/iceraven-browser) ⭐ 6,364 | 🐛 186 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [ ] F-Droid
 * [ ] Official page
@@ -555,7 +555,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FossifyCalendarIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Calendar/main/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/Calendar) ⭐ 2,116 | 🐛 312 | 🌐 Kotlin | 📅 2026-08-17
+* [x] [GitHub](https://github.com/FossifyOrg/Calendar) ⭐ 2,117 | 🐛 312 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.calendar)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.calendar/)
 * [x] [Official page](https://www.fossify.org/)
@@ -596,7 +596,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="GrapheneOSCameraIcon" height="64" src="https://raw.githubusercontent.com/GrapheneOS/Camera/main/app/src/main/ic_launcher-playstore.png">
 
-* [x] [GitHub](https://github.com/GrapheneOS/Camera) ⭐ 1,358 | 🐛 115 | 🌐 Kotlin | 📅 2026-08-17
+* [x] [GitHub](https://github.com/GrapheneOS/Camera) ⭐ 1,358 | 🐛 116 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
 * [ ] F-Droid
 * [x] [Official page](https://grapheneos.org/)
@@ -640,7 +640,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FossifyContactsIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Contacts/main/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/Contacts) ⭐ 891 | 🐛 145 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/FossifyOrg/Contacts) ⭐ 892 | 🐛 144 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.contacts)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/)
 * [x] [Official page](https://www.fossify.org/)
@@ -662,7 +662,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="KDEconnectIcon" height="64" src="https://raw.githubusercontent.com/KDE/kdeconnect-kde/master/icons/app/sc-apps-kdeconnect.svg">
 
-* [x] [GitHub](https://github.com/KDE/kdeconnect-kde) ⭐ 3,948 | 🐛 0 | 🌐 C++ | 📅 2026-08-24
+* [x] [GitHub](https://github.com/KDE/kdeconnect-kde) ⭐ 3,950 | 🐛 0 | 🌐 C++ | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
 * [x] [Official page](https://kdeconnect.kde.org/)
@@ -671,7 +671,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="LocalSendIcon" height="64" src="https://localsend.org/_nuxt/logo-512.aU8Z13Dx.png">
 
-* [x] [GitHub](https://github.com/localsend/localsend) ⭐ 89,224 | 🐛 1,089 | 🌐 Dart | 📅 2026-08-24
+* [x] [GitHub](https://github.com/localsend/localsend) ⭐ 89,265 | 🐛 1,090 | 🌐 Dart | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.localsend.localsend_app/)
 * [x] [Official page](https://localsend.org/)
@@ -691,7 +691,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FossifyPhoneIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Phone/main/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/Phone) ⭐ 1,308 | 🐛 170 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/FossifyOrg/Phone) ⭐ 1,309 | 🐛 170 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)
 * [x] [Official page](https://www.fossify.org/)
@@ -702,7 +702,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="EasyDiaryIcon" height="64" src="https://github.com/hanjoongcho/aaf-easydiary/raw/master/screenshots/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/hanjoongcho/aaf-easydiary) ⭐ 557 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/hanjoongcho/aaf-easydiary) ⭐ 557 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
 * [x] [F-Droid](https://f-droid.org/en/packages/me.blog.korn123.easydiary)
 * [ ] Official page
@@ -731,7 +731,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="DownloadNaviIcon" height="64" src="https://github.com/amir1376/ab-download-manager/raw/master/assets/logo/app_logo_with_background.svg">
 
-* [x] [GitHub](https://github.com/amir1376/ab-download-manager) ⭐ 17,442 | 🐛 438 | 🌐 Kotlin | 📅 2026-08-22
+* [x] [GitHub](https://github.com/amir1376/ab-download-manager) ⭐ 17,449 | 🐛 441 | 🌐 Kotlin | 📅 2026-08-22
 * [ ] Google Play
 * [ ] F-Droid
 * [x] [Official page](https://abdownloadmanager.com)
@@ -742,9 +742,9 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="AliucordIcon" height="64" src="https://raw.githubusercontent.com/Aliucord/Aliucord/main/installer/android/app/src/main/assets/icon2.png">
 
-(Aliucord doesn't make Discord open source, it is still proprietary software but with FOSS patches and modifications [without Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java) ⭐ 4,846 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-23)
+(Aliucord doesn't make Discord open source, it is still proprietary software but with FOSS patches and modifications [without Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java) ⭐ 4,847 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-23)
 
-* [x] [GitHub](https://github.com/Aliucord/Aliucord) ⭐ 4,846 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/Aliucord/Aliucord) ⭐ 4,847 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-23
 * [ ] Google Play
 * [ ] F-Droid
 * [ ] Official page
@@ -755,7 +755,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 > A client modification for Discord mobile, a continuation of [Bunny](https://github.com/pyoncord/Bunny) ⚠️ Archived.
 
-* [x] [GitHub](https://github.com/revenge-mod/revenge-bundle) ⭐ 1,660 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12
+* [x] [GitHub](https://github.com/revenge-mod/revenge-bundle) ⭐ 1,661 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12
 * [ ] Google Play
 * [ ] F-Droid
 * [ ] Official page
@@ -766,7 +766,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="OSSDocumentScannerIcon" height="64" src="https://raw.githubusercontent.com/Akylas/OSS-DocumentScanner/master/icon.png">
 
-* [x] [GitHub](https://github.com/Akylas/OSS-DocumentScanner) ⭐ 2,380 | 🐛 86 | 🌐 C++ | 📅 2026-08-23
+* [x] [GitHub](https://github.com/Akylas/OSS-DocumentScanner) ⭐ 2,381 | 🐛 86 | 🌐 C++ | 📅 2026-08-23
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.akylas.documentscanner)
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner)
 * [x] [Official page](https://www.akylas.fr/)
@@ -788,7 +788,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="LibreraReaderIcon" height="64" src="https://raw.githubusercontent.com/foobnix/LibreraReader/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/foobnix/LibreraReader) ⭐ 4,728 | 🐛 540 | 🌐 Java | 📅 2026-08-23
+* [x] [GitHub](https://github.com/foobnix/LibreraReader) ⭐ 4,729 | 🐛 540 | 🌐 Java | 📅 2026-08-23
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader)
 * [x] [F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)
 * [x] [Official page](https://librera.mobi/)
@@ -797,7 +797,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="KOReaderIcon" height="64" src="https://raw.githubusercontent.com/koreader/koreader/master/metadata/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/koreader/koreader) ⭐ 29,234 | 🐛 1,321 | 🌐 Lua | 📅 2026-08-24
+* [x] [GitHub](https://github.com/koreader/koreader) ⭐ 29,240 | 🐛 1,324 | 🌐 Lua | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
 * [x] [Official page](https://koreader.rocks/)
@@ -817,7 +817,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FairEmailIcon" height="64" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/M66B/FairEmail) ⭐ 4,578 | 🐛 3 | 🌐 Java | 📅 2026-08-24
+* [x] [GitHub](https://github.com/M66B/FairEmail) ⭐ 4,581 | 🐛 3 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email)
 * [x] [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/)
 * [x] [Official page](https://email.faircode.eu/)
@@ -826,7 +826,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="K-9MailIcon" height="64" src="https://f-droid.org/repo/com.fsck.k9/en-US/icon_-2bZW0ZnkKqPVher2SxQK8hXGGSjgaBHoa8x6vW0v8w=.png">
 
-* [x] [GitHub](https://github.com/thundernest/k-9) ⭐ 13,903 | 🐛 1,058 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/thundernest/k-9) ⭐ 13,905 | 🐛 1,057 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
 * [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
 * [x] [Official page](https://k9mail.app/)
@@ -861,7 +861,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
 * [x] [F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)
-* [x] [GitHub](https://github.com/Swordfish90/Lemuroid) ⭐ 4,221 | 🐛 589 | 🌐 Kotlin | 📅 2026-08-12
+* [x] [GitHub](https://github.com/Swordfish90/Lemuroid) ⭐ 4,223 | 🐛 589 | 🌐 Kotlin | 📅 2026-08-12
 * [ ] Official page
 
 ## F-Droid
@@ -879,7 +879,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="Droid-ifyIcon" height="64" src="https://github.com/Droid-ify/client/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
-* [x] [GitHub](https://github.com/Iamlooker/Droid-ify) ⭐ 7,305 | 🐛 200 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/Iamlooker/Droid-ify) ⭐ 7,308 | 🐛 200 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/com.looker.droidify)
 * [ ] Official page
@@ -917,7 +917,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="AmazeFileManagerIcon" height="64" src="https://github.com/TeamAmaze/AmazeFileManager/raw/release/3.7/icon.png">
 
-* [x] [GitHub](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,347 | 🐛 636 | 🌐 Kotlin | 📅 2026-08-20
+* [x] [GitHub](https://github.com/TeamAmaze/AmazeFileManager) ⭐ 6,350 | 🐛 636 | 🌐 Kotlin | 📅 2026-08-20
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 * [x] [F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)
 * [x] [Official page](https://teamamaze.xyz/)
@@ -926,7 +926,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FossifyFileManagerIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/File-Manager) ⭐ 1,724 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/FossifyOrg/File-Manager) ⭐ 1,726 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.filemanager)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.filemanager/)
 * [x] [Official page](https://www.fossify.org/)
@@ -946,7 +946,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="Syncthing-ForkIcon" height="64" src="https://raw.githubusercontent.com/syncthing/syncthing-android/841f89b8863102608e8d6c3d24272e1a71cb9449/graphics/ic_launcher_full.svg">
 
-* [x] [GitHub](https://github.com/Catfriend1/syncthing-android) ⭐ 2,669 | 🐛 12 | 🌐 Java | 📅 2026-08-24
+* [x] [GitHub](https://github.com/Catfriend1/syncthing-android) ⭐ 2,673 | 🐛 12 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid)
 * [x] [F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/)
 * [ ] Official page
@@ -955,7 +955,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="PairDropIcon" height="64" src="https://raw.githubusercontent.com/schlagmichdoch/PairDrop/master/public/images/android-chrome-512x512.png">
 
-* [x] [GitHub](https://github.com/schlagmichdoch/pairdrop) ⭐ 11,230 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-22
+* [x] [GitHub](https://github.com/schlagmichdoch/pairdrop) ⭐ 11,233 | 🐛 108 | 🌐 JavaScript | 📅 2026-04-22
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop\&hl=en)
 * [ ] F-Droid
 * [x] [Official page](https://pairdrop.net/)
@@ -984,7 +984,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="MyExpensesIcon" height="64" src="https://raw.githubusercontent.com/mtotschnig/MyExpenses/master/metadata/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/mtotschnig/MyExpenses) ⭐ 1,171 | 🐛 468 | 🌐 Kotlin | 📅 2026-08-21
+* [x] [GitHub](https://github.com/mtotschnig/MyExpenses) ⭐ 1,171 | 🐛 469 | 🌐 Kotlin | 📅 2026-08-21
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.totschnig.myexpenses/)
 * [x] [Official page](https://www.myexpenses.mobi/en/)
@@ -1006,7 +1006,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 * [x] [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
 * [x] [F-Droid](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
-* [x] [GitHub](https://github.com/ukanth/afwall/) ⭐ 3,449 | 🐛 218 | 🌐 Java | 📅 2026-08-06
+* [x] [GitHub](https://github.com/ukanth/afwall/) ⭐ 3,450 | 🐛 218 | 🌐 Java | 📅 2026-08-06
 * [ ] Official page
 
 ## Flash Cards
@@ -1015,7 +1015,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="AnkiDroidIcon" height="64" src="https://github.com/ankidroid/Anki-Android/raw/main/docs/graphics/logos/ankidroid_logo.png">
 
-* [x] [GitHub](https://github.com/ankidroid/Anki-Android) ⭐ 11,611 | 🐛 370 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/ankidroid/Anki-Android) ⭐ 11,613 | 🐛 367 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 * [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
 * [x] [Official page](https://apps.ankiweb.net)
@@ -1066,7 +1066,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FossifyGalleryIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Gallery/main/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/Gallery) ⭐ 3,633 | 🐛 310 | 🌐 Kotlin | 📅 2026-08-17
+* [x] [GitHub](https://github.com/FossifyOrg/Gallery) ⭐ 3,633 | 🐛 313 | 🌐 Kotlin | 📅 2026-08-17
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)
 * [x] [Official page](https://www.fossify.org/)
@@ -1075,7 +1075,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="AvesIcon" height="64" src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg">
 
-* [x] [GitHub](https://github.com/deckerst/aves) ⭐ 5,137 | 🐛 179 | 🌐 Dart | 📅 2026-08-08
+* [x] [GitHub](https://github.com/deckerst/aves) ⭐ 5,138 | 🐛 179 | 🌐 Dart | 📅 2026-08-08
 * [x] [Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
 * [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
 * [ ] Official page
@@ -1084,7 +1084,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="GalleryIcon" height="64" src="https://raw.githubusercontent.com/IacobIonut01/Gallery/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/IacobIonut01/Gallery) ⭐ 2,671 | 🐛 150 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/IacobIonut01/Gallery) ⭐ 2,672 | 🐛 149 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.dot.gallery.gplay)
 * [x] [F-Droid](https://f-droid.org/packages/com.dot.gallery/)
 * [ ] Official page
@@ -1095,7 +1095,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="MindustryIcon" height="64" src="https://raw.githubusercontent.com/Anuken/Mindustry/master/android/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/Anuken/Mindustry) ⭐ 28,724 | 🐛 73 | 🌐 Java | 📅 2026-08-24
+* [x] [GitHub](https://github.com/Anuken/Mindustry) ⭐ 28,726 | 🐛 74 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
 * [x] [F-Droid](https://f-droid.org/packages/io.anuke.mindustry)
 * [x] [Official page](https://mindustrygame.github.io/)
@@ -1113,7 +1113,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="ShatteredPixelDungeonIcon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
 
-* [x] [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,462 | 🐛 12 | 🌐 Java | 📅 2026-08-15
+* [x] [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 6,463 | 🐛 12 | 🌐 Java | 📅 2026-08-15
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 * [x] [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)
 * [x] [Official page](https://shatteredpixel.com/)
@@ -1158,7 +1158,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="UnCivIcon" height="64" src="https://raw.githubusercontent.com/yairm210/Unciv/master/extraImages/Icons/Unciv%20icon%20v5.png">
 
-* [x] [GitHub](https://github.com/yairm210/Unciv) ⭐ 11,123 | 🐛 151 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/yairm210/Unciv) ⭐ 11,128 | 🐛 152 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.unciv.app)
 * [x] [F-Droid](https://f-droid.org/en/packages/com.unciv.app/)
 * [x] [Official page](https://yairm210.itch.io/unciv)
@@ -1185,7 +1185,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="MinetestIcon" height="64" src="https://raw.githubusercontent.com/minetest/minetest/master/misc/minetest.svg">
 
-* [x] [GitHub](https://github.com/minetest/minetest) ⭐ 13,486 | 🐛 1,510 | 🌐 C++ | 📅 2026-08-21
+* [x] [GitHub](https://github.com/minetest/minetest) ⭐ 13,489 | 🐛 1,511 | 🌐 C++ | 📅 2026-08-21
 * [x] [Google Play](https://play.google.com/store/apps/details?id=net.minetest.minetest)
 * [x] [F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)
 * [x] [Official page](https://www.minetest.net/)
@@ -1196,7 +1196,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="OctoDroidIcon" height="64" src="https://raw.githubusercontent.com/slapperwan/gh4a/master/app/src/main/res/drawable-xxhdpi/octodroid.png">
 
-* [x] [GitHub](https://github.com/slapperwan/gh4a) ⭐ 1,995 | 🐛 303 | 🌐 Java | 📅 2025-12-09
+* [x] [GitHub](https://github.com/slapperwan/gh4a) ⭐ 1,994 | 🐛 303 | 🌐 Java | 📅 2025-12-09
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/com.gh4a/)
 * [ ] Official page
@@ -1225,7 +1225,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="ObtainiumIcon" height="64" src="https://github.com/ImranR98/Obtainium/raw/main/assets/graphics/icon_small.png">
 
-* [x] [GitHub](https://github.com/ImranR98/Obtainium) ⭐ 19,212 | 🐛 387 | 🌐 Dart | 📅 2026-08-24
+* [x] [GitHub](https://github.com/ImranR98/Obtainium) ⭐ 19,228 | 🐛 388 | 🌐 Dart | 📅 2026-08-24
 * [ ] Google Play
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium)
 * [ ] Official page
@@ -1285,7 +1285,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="ArcticonsIcon" height="64" src="https://raw.githubusercontent.com/Donnnno/Arcticons/main/icons/white/arcticons.svg">
 
-* [x] [GitHub](https://github.com/Donnnno/Arcticons) ⭐ 1,543 | 🐛 30 | 🌐 Java | 📅 2026-08-24
+* [x] [GitHub](https://github.com/Donnnno/Arcticons) ⭐ 1,543 | 🐛 24 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.donnnno.arcticons)
 * [x] [F-Droid](https://f-droid.org/packages/com.donnnno.arcticons)
 * [x] [Official page](https://arcticons.onnno.nl/)
@@ -1326,7 +1326,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FFShareIcon" height="64" src="https://f-droid.org/repo/com.caydey.ffshare/en-US/icon_vvPYfQ6YV2zd9ydhsVXalVmc5MZZLZP_lz24kfaTKEQ=.png">
 
-* [x] [GitHub](https://github.com/caydey/ffshare) ⭐ 1,076 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-14
+* [x] [GitHub](https://github.com/caydey/ffshare) ⭐ 1,079 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-14
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/com.caydey.ffshare/)
 * [ ] Official page
@@ -1344,7 +1344,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="ImageToolboxIcon" height="64" src="https://user-images.githubusercontent.com/52178347/244873361-7561ef91-3c2e-4398-87a0-813a56a9f408.png">
 
-* [x] [GitHub](https://github.com/T8RIN/ImageToolbox) ⭐ 14,341 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22
+* [x] [GitHub](https://github.com/T8RIN/ImageToolbox) ⭐ 14,345 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/ru.tech.imageresizershrinker/)
 * [ ] Official page
@@ -1355,7 +1355,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="SignalIcon" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
-* [x] [GitHub](https://github.com/signalapp/Signal-Android) ⭐ 29,249 | 🐛 482 | 🌐 Kotlin | 📅 2026-08-21
+* [x] [GitHub](https://github.com/signalapp/Signal-Android) ⭐ 29,251 | 🐛 484 | 🌐 Kotlin | 📅 2026-08-21
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 * [ ] F-Droid
 * [x] [Official page](https://signal.org/)
@@ -1364,7 +1364,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="MollyIcon" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
-* [x] [GitHub](https://github.com/mollyim/mollyim-android) ⭐ 3,661 | 🐛 330 | 🌐 Kotlin | 📅 2026-08-22
+* [x] [GitHub](https://github.com/mollyim/mollyim-android) ⭐ 3,663 | 🐛 330 | 🌐 Kotlin | 📅 2026-08-22
 * [ ] Google Play
 * [x] [F-Droid](https://molly.im/fdroid/)
 * [x] [Official page](https://molly.im/)
@@ -1400,7 +1400,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="DeltaChatIcon" height="64" src="https://delta.chat/assets/logos/delta-chat.svg">
 
-* [x] [GitHub](https://github.com/deltachat/deltachat-android) ⭐ 1,805 | 🐛 20 | 🌐 Java | 📅 2026-08-21
+* [x] [GitHub](https://github.com/deltachat/deltachat-android) ⭐ 1,805 | 🐛 21 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=chat.delta)
 * [x] [F-Droid](https://f-droid.org/app/com.b44t.messenger)
 * [x] [Official page](https://delta.chat/en/)
@@ -1411,7 +1411,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="HeliBoardIcon" height="64" src="https://raw.githubusercontent.com/Helium314/HeliBoard/8d546fad5e7d59699bb15418f14a2ca471b4d659/art/launcher_icon/icon_source_-_rubik_font_not_included.svg">
 
-* [x] [GitHub](https://github.com/Helium314/HeliBoard) ⭐ 5,921 | 🐛 814 | 🌐 Kotlin | 📅 2026-08-10
+* [x] [GitHub](https://github.com/Helium314/HeliBoard) ⭐ 5,922 | 🐛 814 | 🌐 Kotlin | 📅 2026-08-10
 * [ ] Google Play
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
 * [ ] Official page
@@ -1422,7 +1422,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 > Supports input for Chinese, Japanese, Korean, and more
 
-* [x] [GitHub](https://github.com/fcitx5-android/fcitx5-android) ⭐ 5,574 | 🐛 98 | 🌐 Kotlin | 📅 2026-08-21
+* [x] [GitHub](https://github.com/fcitx5-android/fcitx5-android) ⭐ 5,575 | 🐛 97 | 🌐 Kotlin | 📅 2026-08-21
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.fcitx.fcitx5.android)
 * [x] [F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
 * [x] [Official page](https://fcitx5-android.github.io/en/)
@@ -1431,7 +1431,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="FlorisBoardIcon" height="64" src="https://raw.githubusercontent.com/florisboard/florisboard/main/app/src/main/res/mipmap-xxxhdpi/ic_app_icon_stable_round.png">
 
-* [x] [GitHub](https://github.com/florisboard/florisboard) ⭐ 8,588 | 🐛 477 | 🌐 Kotlin | 📅 2026-08-21
+* [x] [GitHub](https://github.com/florisboard/florisboard) ⭐ 8,590 | 🐛 478 | 🌐 Kotlin | 📅 2026-08-21
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
 * [ ] Official page
@@ -1453,7 +1453,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 > Lightweight and privacy-conscious keyboard, originally designed for Termux
 
-* [x] [GitHub](https://github.com/Julow/Unexpected-Keyboard) ⭐ 3,206 | 🐛 292 | 🌐 Java | 📅 2026-08-23
+* [x] [GitHub](https://github.com/Julow/Unexpected-Keyboard) ⭐ 3,207 | 🐛 292 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=juloo.keyboard2)
 * [x] [F-Droid](https://f-droid.org/packages/juloo.keyboard2/)
 * [ ] Official page
@@ -1497,7 +1497,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="KvaesitsoIcon" height="64" src="https://raw.githubusercontent.com/MM2-0/Kvaesitso/main/assets/icons/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/MM2-0/Kvaesitso) ⭐ 5,031 | 🐛 687 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/MM2-0/Kvaesitso) ⭐ 5,032 | 🐛 687 | 🌐 Kotlin | 📅 2026-08-23
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/de.mm20.launcher2.release/)
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.mm20.launcher2.release) (feature completeness)
@@ -1507,7 +1507,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="LawnchairLauncherIcon" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
 
-* [x] [GitHub](https://github.com/LawnchairLauncher/lawnchair) ⭐ 13,386 | 🐛 720 | 🌐 Java | 📅 2026-08-24
+* [x] [GitHub](https://github.com/LawnchairLauncher/lawnchair) ⭐ 13,387 | 🐛 720 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
 * [ ] F-Droid
 * [x] [Official page](https://lawnchair.app/)
@@ -1527,7 +1527,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="KISSLauncherIcon" height="64" src="https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/Neamar/KISS) ⭐ 3,479 | 🐛 82 | 🌐 Java | 📅 2026-08-14
+* [x] [GitHub](https://github.com/Neamar/KISS) ⭐ 3,482 | 🐛 83 | 🌐 Java | 📅 2026-08-14
 * [x] [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
 * [x] [F-Droid](https://f-droid.org/packages/fr.neamar.kiss/)
 * [x] [Official page](https://kisslauncher.com/)
@@ -1536,7 +1536,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="LunarLauncherIcon" height="64" src="https://github.com/iamrasel/lunar-launcher/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/iamrasel/lunar-launcher) ⭐ 542 | 🐛 34 | 🌐 Kotlin | 📅 2024-04-27
+* [x] [GitHub](https://github.com/iamrasel/lunar-launcher) ⭐ 543 | 🐛 34 | 🌐 Kotlin | 📅 2024-04-27
 * [x] [Google Play](https://play.google.com/store/apps/details?id=rasel.lunar.launcher)
 * [x] [F-Droid](https://f-droid.org/packages/rasel.lunar.launcher)
 * [ ] Official page
@@ -1558,7 +1558,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="ThunderIcon" height="64" src="https://github.com/thunder-app/thunder/raw/develop/assets/logo.png">
 
-* [x] [GitHub](https://github.com/thunder-app/thunder) ⭐ 1,017 | 🐛 270 | 🌐 Dart | 📅 2026-08-22
+* [x] [GitHub](https://github.com/thunder-app/thunder) ⭐ 1,018 | 🐛 270 | 🌐 Dart | 📅 2026-08-22
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.hjiangsu.thunder)
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.hjiangsu.thunder)
 * [x] [Official page](https://thunderapp.dev/)
@@ -1571,7 +1571,7 @@ Currently being reworked as Neo Launcher.
 
 * [x] [Google Play](https://play.google.com/store/apps/details?id=me.hackerchick.catima)
 * [x] [F-Droid](https://f-droid.org/packages/me.hackerchick.catima/)
-* [x] [GitHub](https://github.com/CatimaLoyalty/Android) ⭐ 1,678 | 🐛 173 | 🌐 Java | 📅 2026-08-24
+* [x] [GitHub](https://github.com/CatimaLoyalty/Android) ⭐ 1,678 | 🐛 169 | 🌐 Java | 📅 2026-08-24
 * [x] [Official page](https://catima.app/)
 
 ## Maps
@@ -1580,7 +1580,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="OrganicMapsIcon" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
 
-* [x] [GitHub](https://github.com/organicmaps/organicmaps) ⭐ 15,190 | 🐛 3,462 | 🌐 C++ | 📅 2026-08-24
+* [x] [GitHub](https://github.com/organicmaps/organicmaps) ⭐ 15,197 | 🐛 3,457 | 🌐 C++ | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
 * [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 * [x] [Official page](https://organicmaps.app/)
@@ -1598,7 +1598,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="OsmAndIcon" height="64" src="https://osmand.net/img/logo.svg">
 
-* [x] [GitHub](https://github.com/osmandapp/OsmAnd) ⭐ 5,924 | 🐛 3,458 | 🌐 Java | 📅 2026-08-24
+* [x] [GitHub](https://github.com/osmandapp/OsmAnd) ⭐ 5,924 | 🐛 3,454 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=net.osmand)
 * [x] [F-Droid](https://f-droid.org/packages/net.osmand.plus/)
 * [x] [Official page](https://osmand.net/)
@@ -1620,7 +1620,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="ElementIcon" height="64" src="https://element.io/images/logo-mark-primary.svg">
 
-* [x] [GitHub](https://github.com/vector-im/element-android) ⭐ 3,720 | 🐛 2,209 | 🌐 Kotlin | 📅 2026-08-21
+* [x] [GitHub](https://github.com/vector-im/element-android) ⭐ 3,721 | 🐛 2,210 | 🌐 Kotlin | 📅 2026-08-21
 * [x] [Google Play](https://play.google.com/store/apps/details?id=im.vector.app)
 * [x] [F-Droid](https://f-droid.org/app/im.vector.app)
 * [x] [Official page](https://element.io/)
@@ -1671,7 +1671,7 @@ Currently being reworked as Neo Launcher.
 
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/com.shabinder.spotiflyer)
-* [x] [GitHub](https://github.com/Shabinder/SpotiFlyer) ⭐ 11,247 | 🐛 572 | 🌐 Kotlin | 📅 2024-10-06
+* [x] [GitHub](https://github.com/Shabinder/SpotiFlyer) ⭐ 11,248 | 🐛 572 | 🌐 Kotlin | 📅 2024-10-06
 * [x] [Official page](https://shabinder.github.io/SpotiFlyer/)
 
 ## Music Player
@@ -1680,7 +1680,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="MetroIcon" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
-* [x] [GitHub](https://github.com/MuntashirAkon/Metro) ⭐ 1,604 | 🐛 84 | 🌐 Kotlin | 📅 2024-06-13
+* [x] [GitHub](https://github.com/MuntashirAkon/Metro) ⭐ 1,605 | 🐛 84 | 🌐 Kotlin | 📅 2024-06-13
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
 * [ ] Official page
@@ -1689,7 +1689,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="AuxioIcon" height="64" src="https://github.com/OxygenCobalt/Auxio/raw/dev/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/OxygenCobalt/Auxio) ⭐ 4,189 | 🐛 203 | 🌐 Kotlin | 📅 2026-08-04
+* [x] [GitHub](https://github.com/OxygenCobalt/Auxio) ⭐ 4,190 | 🐛 203 | 🌐 Kotlin | 📅 2026-08-04
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/app/org.oxycblt.auxio)
 * [ ] Official page
@@ -1734,7 +1734,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="MuckeIcon" height="64" src="https://raw.githubusercontent.com/moritz-weber/mucke/master/src/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/moritz-weber/mucke) ⭐ 256 | 🐛 59 | 🌐 Dart | 📅 2026-08-16
+* [x] [GitHub](https://github.com/moritz-weber/mucke) ⭐ 256 | 🐛 53 | 🌐 Dart | 📅 2026-08-16
 * [ ] Google Play
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/rocks.mucke.github)
 * [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
@@ -1743,7 +1743,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="FossifyMusicPlayerIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Music-Player/main/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/Music-Player) ⭐ 898 | 🐛 91 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/FossifyOrg/Music-Player) ⭐ 899 | 🐛 91 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/org.fossify.musicplayer/)
 * [x] [Official page](https://www.fossify.org/)
@@ -1792,7 +1792,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="JoplinIcon" height="64" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png">
 
-* [x] [GitHub](https://github.com/laurent22/joplin/) ⭐ 56,082 | 🐛 618 | 🌐 TypeScript | 📅 2026-08-24
+* [x] [GitHub](https://github.com/laurent22/joplin/) ⭐ 56,087 | 🐛 621 | 🌐 TypeScript | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=net.cozic.joplin)
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.cozic.joplin)
 * [x] [Official page](https://joplinapp.org/)
@@ -1810,7 +1810,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="OsmAndIcon" height="64" src="https://github.com/gsantner/markor/raw/master/app/src/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/gsantner/markor) ⭐ 6,019 | 🐛 191 | 🌐 Java | 📅 2026-08-24
+* [x] [GitHub](https://github.com/gsantner/markor) ⭐ 6,021 | 🐛 180 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor)
 * [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=net.gsantner.markor)
 * [x] [Official page](https://gsantner.net/page/projects.html#markor)
@@ -1819,7 +1819,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="FossifyNotes" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Notes/master/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/Notes) ⭐ 486 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-17
+* [x] [GitHub](https://github.com/FossifyOrg/Notes) ⭐ 486 | 🐛 58 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.notes/)
 * [x] [Official page](https://www.fossify.org/)
@@ -1841,7 +1841,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="CollaboraOfficeIcon" height="64" src="https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png">
 
-* [x] [GitHub](https://github.com/CollaboraOnline/online) ⭐ 3,324 | 🐛 960 | 🌐 Shell | 📅 2026-08-18
+* [x] [GitHub](https://github.com/CollaboraOnline/online) ⭐ 3,324 | 🐛 952 | 🌐 Shell | 📅 2026-08-18
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
 * [x] [F-Droid](https://www.collaboraoffice.com/tag/f-droid/)
 * [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
@@ -1852,7 +1852,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="AppManagerIcon" height="64" src="https://raw.githubusercontent.com/MuntashirAkon/AppManager/master/docs/raw/images/icon.png">
 
-* [x] [GitHub](https://github.com/MuntashirAkon/AppManager) ⭐ 8,810 | 🐛 207 | 🌐 Java | 📅 2026-08-22
+* [x] [GitHub](https://github.com/MuntashirAkon/AppManager) ⭐ 8,813 | 🐛 207 | 🌐 Java | 📅 2026-08-22
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
 * [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
@@ -1861,7 +1861,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="PackageManagerIcon" height="64" src="https://raw.githubusercontent.com/SmartPack/PackageManager/master/app/src/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/SmartPack/PackageManager) ⭐ 813 | 🐛 74 | 🌐 Java | 📅 2026-06-17
+* [x] [GitHub](https://github.com/SmartPack/PackageManager) ⭐ 813 | 🐛 71 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager)
 * [x] [F-Droid](https://f-droid.org/packages/com.smartpack.packagemanager)
 * [x] [Official page](https://smartpack.github.io/)
@@ -1890,7 +1890,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="KeePassDXIcon" height="64" src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png">
 
-* [x] [GitHub](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,171 | 🐛 556 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/Kunzisoft/KeePassDX) ⭐ 7,173 | 🐛 557 | 🌐 Kotlin | 📅 2026-08-23
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
 * [x] [F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)
 * [x] [Official page](https://www.keepassdx.com/)
@@ -1910,7 +1910,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="GrapheneOSPDFViewerIcon" height="64" src="https://raw.githubusercontent.com/GrapheneOS/PdfViewer/main/app/src/main/ic_launcher-playstore.png">
 
-* [x] [GitHub](https://github.com/GrapheneOS/PdfViewer) ⭐ 1,019 | 🐛 39 | 🌐 Kotlin | 📅 2026-08-21
+* [x] [GitHub](https://github.com/GrapheneOS/PdfViewer) ⭐ 1,020 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
 * [ ] F-Droid
 * [x] [Official page](https://grapheneos.org/)
@@ -1934,7 +1934,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="TransportrIcon" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/grote/Transportr) ⭐ 1,178 | 🐛 115 | 🌐 Kotlin | 📅 2026-05-28
+* [x] [GitHub](https://github.com/grote/Transportr) ⭐ 1,177 | 🐛 115 | 🌐 Kotlin | 📅 2026-05-28
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
 * [x] [Official page](https://transportr.app/)
@@ -1954,7 +1954,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="AntennaPodIcon" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
 
-* [x] [GitHub](https://github.com/AntennaPod/AntennaPod) ⭐ 8,102 | 🐛 364 | 🌐 Java | 📅 2026-08-23
+* [x] [GitHub](https://github.com/AntennaPod/AntennaPod) ⭐ 8,103 | 🐛 365 | 🌐 Java | 📅 2026-08-23
 * [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 * [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
 * [x] [Official page](https://antennapod.org/)
@@ -1965,7 +1965,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="InfinityIcon" height="64" src="https://raw.githubusercontent.com/Docile-Alligator/Infinity-For-Reddit/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png">
 
-* [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit) ⭐ 5,428 | 🐛 165 | 🌐 Java | 📅 2026-08-19
+* [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit) ⭐ 5,429 | 🐛 165 | 🌐 Java | 📅 2026-08-19
 * [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 * [ ] F-Droid
 * [ ] Official page
@@ -2005,7 +2005,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="ReadYouIcon" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/Ashinch/ReadYou) ⭐ 7,449 | 🐛 472 | 🌐 Kotlin | 📅 2026-08-11
+* [x] [GitHub](https://github.com/Ashinch/ReadYou) ⭐ 7,451 | 🐛 472 | 🌐 Kotlin | 📅 2026-08-11
 * [ ] Google Play
 * [x] [F-Droid](https://android.izzysoft.de/repo/apk/me.ash.reader)
 * [ ] Official page
@@ -2025,7 +2025,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="CapyReaderIcon" height="64" src="https://raw.githubusercontent.com/jocmp/capyreader/main/site/capy.png">
 
-* [x] [GitHub](https://github.com/jocmp/capyreader) ⭐ 1,330 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-03
+* [x] [GitHub](https://github.com/jocmp/capyreader) ⭐ 1,331 | 🐛 20 | 🌐 Kotlin | 📅 2026-08-03
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.capyreader.app)
 * [x] [F-Droid](https://f-droid.org/en/packages/com.capyreader.app/)
 * [ ] Official page
@@ -2036,7 +2036,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="FossifyMessagesIcon" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Messages/main/graphics/icon.webp">
 
-* [x] [GitHub](https://github.com/FossifyOrg/Messages) ⭐ 1,518 | 🐛 195 | 🌐 Kotlin | 📅 2026-08-17
+* [x] [GitHub](https://github.com/FossifyOrg/Messages) ⭐ 1,519 | 🐛 196 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.messages)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.messages/)
 * [x] [Official page](https://www.fossify.org/)
@@ -2047,7 +2047,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="QUIKSMSIcon" height="64" src="https://raw.githubusercontent.com/octoshrimpy/quik/master/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/octoshrimpy/quik) ⭐ 2,698 | 🐛 281 | 🌐 Java | 📅 2026-08-01
+* [x] [GitHub](https://github.com/octoshrimpy/quik) ⭐ 2,701 | 🐛 281 | 🌐 Java | 📅 2026-08-01
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/dev.octoshrimpy.quik/)
 * [ ] Official page
@@ -2058,7 +2058,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="JellyfinIcon" height="64" src="https://f-droid.org/repo/org.jellyfin.mobile/en-US/icon_Y46m-eV538ASL9vG0piH5BI4dC1PHilt0tKyKCVp_F0=.png">
 
-* [x] [GitHub](https://github.com/jellyfin/jellyfin-android) ⭐ 2,710 | 🐛 192 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/jellyfin/jellyfin-android) ⭐ 2,710 | 🐛 190 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 * [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
 * [x] [Official page](https://jellyfin.org/)
@@ -2078,7 +2078,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="AudileIcon" height="64" src="https://raw.githubusercontent.com/aleksey-saenko/MusicRecognizer/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/aleksey-saenko/MusicRecognizer) ⭐ 1,262 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-21
+* [x] [GitHub](https://github.com/aleksey-saenko/MusicRecognizer) ⭐ 1,263 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/)
 * [ ] Official page
@@ -2100,7 +2100,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="ConnectBotIcon" height="64" src="https://raw.githubusercontent.com/connectbot/connectbot/main/icons/icon64.png">
 
-* [x] [GitHub](https://github.com/connectbot/connectbot) ⭐ 3,400 | 🐛 280 | 🌐 Kotlin | 📅 2026-08-17
+* [x] [GitHub](https://github.com/connectbot/connectbot) ⭐ 3,403 | 🐛 280 | 🌐 Kotlin | 📅 2026-08-17
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.connectbot)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.connectbot/)
 * [x] [Official page](http://connectbot.org/)
@@ -2133,7 +2133,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="CloudStreamIcon" height="64" src="https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/ic_launcher-playstore.png">
 
-* [x] [GitHub](https://github.com/recloudstream/cloudstream) ⭐ 10,514 | 🐛 600 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/recloudstream/cloudstream) ⭐ 10,520 | 🐛 601 | 🌐 Kotlin | 📅 2026-08-23
 * [ ] Google Play
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
 * [x] [Official page](https://recloudstream.github.io/)
@@ -2153,7 +2153,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="Survival ManualIcon" height="64" src="https://f-droid.org/repo/icons-640/org.ligi.survivalmanual.428.png">
 
-* [x] [GitHub](https://github.com/ligi/SurvivalManual) ⭐ 1,283 | 🐛 92 | 🌐 Kotlin | 📅 2025-09-03
+* [x] [GitHub](https://github.com/ligi/SurvivalManual) ⭐ 1,284 | 🐛 92 | 🌐 Kotlin | 📅 2025-09-03
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/org.ligi.survivalmanual/)
 * [x] [Official page](https://survivalmanual.github.io/)
@@ -2162,7 +2162,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="TrailSenseIcon" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/kylecorry31/Trail-Sense) ⭐ 2,818 | 🐛 308 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/kylecorry31/Trail-Sense) ⭐ 2,819 | 🐛 305 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
 * [x] [F-Droid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
 * [x] [Official page](https://kylecorry.com/Trail-Sense/)
@@ -2182,7 +2182,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="SDMaid2/SEIcon" height="64" src="https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
-* [x] [GitHub](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,357 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/d4rken-org/sdmaid-se) ⭐ 7,358 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse/)
 * [ ] Official page
@@ -2193,7 +2193,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="TermuxIcon" height="64" src="https://raw.githubusercontent.com/termux/termux-app/master/art/ic_launcher2.png">
 
-* [x] [GitHub](https://github.com/termux/termux-app) ⭐ 59,691 | 🐛 592 | 🌐 Java | 📅 2026-07-14
+* [x] [GitHub](https://github.com/termux/termux-app) ⭐ 59,725 | 🐛 592 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.termux)
 * [x] [F-Droid](https://f-droid.org/en/packages/com.termux/)
 * [x] [Official page](https://termux.org/)
@@ -2204,7 +2204,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="AcodeIcon" height="64" src="https://github.com/deadlyjack/Acode/raw/main/res/logo_1.png">
 
-* [x] [GitHub](https://github.com/deadlyjack/acode) ⭐ 6,671 | 🐛 89 | 🌐 JavaScript | 📅 2026-08-24
+* [x] [GitHub](https://github.com/deadlyjack/acode) ⭐ 6,675 | 🐛 90 | 🌐 JavaScript | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
 * [x] [F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)
 * [x] [Official page](https://acode.foxdebug.com/)
@@ -2226,7 +2226,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="GoodtimeIcon" height="64" src="https://raw.githubusercontent.com/adrcotfas/Goodtime/master/app/src/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/adrcotfas/Goodtime) ⭐ 1,872 | 🐛 64 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/adrcotfas/Goodtime) ⭐ 1,873 | 🐛 65 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
 * [x] [F-Droid](https://f-droid.org/packages/com.apps.adrcotfas.goodtime)
 * [ ] Official page
@@ -2268,7 +2268,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="Tasks️Icon" height="64" src="https://raw.githubusercontent.com/tasks/tasks/main/graphics/round_icon.svg">
 
-* [x] [GitHub](https://github.com/tasks/tasks) ⭐ 5,511 | 🐛 1,172 | 🌐 Kotlin | 📅 2026-08-22
+* [x] [GitHub](https://github.com/tasks/tasks) ⭐ 5,510 | 🐛 1,173 | 🌐 Kotlin | 📅 2026-08-22
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.tasks)
 * [x] [F-Droid](https://f-droid.org/packages/org.tasks)
 * [x] [Official page](https://tasks.org/)
@@ -2286,7 +2286,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="ToDarkIcon" height="64" src="https://github.com/DarkMooNight/ToDark/raw/main/assets/icons/icon.png">
 
-* [x] [GitHub](https://github.com/DarkMooNight/ToDark) ⭐ 474 | 🐛 29 | 🌐 Dart | 📅 2026-08-18
+* [x] [GitHub](https://github.com/DarkMooNight/ToDark) ⭐ 475 | 🐛 29 | 🌐 Dart | 📅 2026-08-18
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.yoshi.todark)
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark)
 * [ ] Official page
@@ -2339,7 +2339,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="BirdayIcon" height="64" src="https://raw.githubusercontent.com/m-i-n-a-r/birday/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/m-i-n-a-r/birday) ⭐ 1,175 | 🐛 44 | 🌐 Kotlin | 📅 2026-06-30
+* [x] [GitHub](https://github.com/m-i-n-a-r/birday) ⭐ 1,176 | 🐛 44 | 🌐 Kotlin | 📅 2026-06-30
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
 * [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
 * [ ] Official page
@@ -2372,7 +2372,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="LoopHabitTrackerIcon" height="64" src="https://raw.githubusercontent.com/iSoron/uhabits/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png">
 
-* [x] [GitHub](https://github.com/iSoron/uhabits) ⭐ 10,159 | 🐛 49 | 🌐 Kotlin | 📅 2026-07-21
+* [x] [GitHub](https://github.com/iSoron/uhabits) ⭐ 10,160 | 🐛 50 | 🌐 Kotlin | 📅 2026-07-21
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
 * [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
 * [x] [Official page](https://loophabits.org/)
@@ -2383,7 +2383,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="HaboIcon" height="64" src="https://raw.githubusercontent.com/xpavle00/Habo/master/assets/images/icon.png">
 
-* [x] [GitHub](https://github.com/xpavle00/Habo) ⭐ 1,484 | 🐛 30 | 🌐 Dart | 📅 2026-06-15
+* [x] [GitHub](https://github.com/xpavle00/Habo) ⭐ 1,484 | 🐛 31 | 🌐 Dart | 📅 2026-06-15
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.pavlenko.Habo)
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.pavlenko.Habo)
 * [x] [Official page](https://habo.space/)
@@ -2394,8 +2394,8 @@ Currently being reworked as Neo Launcher.
 
 <img alt="TableHabitIcon" height="64" src="https://raw.githubusercontent.com/FriesI23/mhabit/main/assets/logo/icon.svg">
 
-* [x] [Github](https://github.com/FriesI23/mhabit) ⭐ 1,457 | 🐛 78 | 🌐 Dart | 📅 2026-08-24
-* [x] [Official page](https://github.com/FriesI23/mhabit) ⭐ 1,457 | 🐛 78 | 🌐 Dart | 📅 2026-08-24
+* [x] [Github](https://github.com/FriesI23/mhabit) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-24
+* [x] [Official page](https://github.com/FriesI23/mhabit) ⭐ 1,458 | 🐛 78 | 🌐 Dart | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=io.github.friesi23.mhabit)
 * [x] [F-Droid](https://f-droid.org/packages/io.github.friesi23.mhabit)
 
@@ -2416,7 +2416,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="ShowlyIcon" height="64" src="https://raw.githubusercontent.com/michaldrabik/showly-2.0/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
-* [x] [GitHub](https://github.com/michaldrabik/Showly-2.0) ⭐ 1,448 | 🐛 150 | 🌐 Kotlin | 📅 2026-06-25
+* [x] [GitHub](https://github.com/michaldrabik/Showly-2.0) ⭐ 1,451 | 🐛 150 | 🌐 Kotlin | 📅 2026-06-25
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
 * [ ] F-Droid
 * [x] [Official page](http://showlyapp.com/)
@@ -2471,7 +2471,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="PleesIcon" height="64" src="https://raw.githubusercontent.com/vmiklos/plees-tracker/master/app/src/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/vmiklos/plees-tracker) ⭐ 226 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/vmiklos/plees-tracker) ⭐ 226 | 🐛 25 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)
 * [x] [Official page](https://vmiklos.hu/plees-tracker/)
@@ -2522,7 +2522,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="SimplyTranslateMobileIcon" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile) ⭐ 209 | 🐛 11 | 🌐 Dart | 📅 2026-06-15
+* [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile) ⭐ 210 | 🐛 11 | 🌐 Dart | 📅 2026-06-15
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile/)
 * [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
@@ -2542,7 +2542,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="XtraIcon" height="64" src="https://github.com/AndreyAsadchy/Xtra/raw/197ba90cac879abd2a5645393ce361847f12fa0b/app/src/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/crackededed/Xtra) ⭐ 2,235 | 🐛 191 | 🌐 Kotlin | 📅 2026-08-19
+* [x] [GitHub](https://github.com/crackededed/Xtra) ⭐ 2,236 | 🐛 189 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/)
 * [ ] Official page
@@ -2551,7 +2551,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="FrostyIcon" height="64" src="https://raw.githubusercontent.com/tommyxchow/frosty/d49cdb2c79a078409dde8dc9b241aec6ec4abbd1/assets/icons/logo.svg">
 
-* [x] [GitHub](https://github.com/tommyxchow/frosty) ⭐ 1,048 | 🐛 194 | 🌐 Dart | 📅 2026-08-23
+* [x] [GitHub](https://github.com/tommyxchow/frosty) ⭐ 1,049 | 🐛 194 | 🌐 Dart | 📅 2026-08-23
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.tommychow.frosty\&hl=en_US\&gl=US)
 * [ ] F-Droid
 * [x] [Official page](https://www.frostyapp.io/)
@@ -2593,7 +2593,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="Just(Video)PlayerIcon" height="64" src="https://raw.githubusercontent.com/moneytoo/Player/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/moneytoo/Player) ⭐ 2,676 | 🐛 74 | 🌐 Java | 📅 2026-08-08
+* [x] [GitHub](https://github.com/moneytoo/Player) ⭐ 2,677 | 🐛 74 | 🌐 Java | 📅 2026-08-08
 * [x] [Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)
 * [x] [F-Droid](https://f-droid.org/en/packages/com.brouken.player/)
 * [ ] Official page
@@ -2602,7 +2602,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="mpvIcon" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
 
-* [x] [GitHub](https://github.com/mpv-android/mpv-android) ⭐ 3,490 | 🐛 163 | 🌐 Kotlin | 📅 2026-08-22
+* [x] [GitHub](https://github.com/mpv-android/mpv-android) ⭐ 3,491 | 🐛 163 | 🌐 Kotlin | 📅 2026-08-22
 * [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 * [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv/)
 * [x] [Official page](https://mpv.io/)
@@ -2624,7 +2624,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="NOVAVideoPlayerIcon" height="64" src="https://raw.githubusercontent.com/nova-video-player/aos-AVP/refs/heads/nova/faq/logo.png">
 
-* [x] [GitHub](https://github.com/nova-video-player/aos-AVP) ⭐ 4,631 | 🐛 938 | 🌐 HTML | 📅 2026-08-21
+* [x] [GitHub](https://github.com/nova-video-player/aos-AVP) ⭐ 4,631 | 🐛 937 | 🌐 HTML | 📅 2026-08-21
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.courville.nova)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.courville.nova/)
 * [x] [Official page](https://home.courville.org/nova_video_player-faq/index.html)
@@ -2646,7 +2646,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="DroidVNC-NGIcon" height="64" src="https://raw.githubusercontent.com/bk138/droidVNC-NG/refs/heads/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/bk138/droidVNC-NG) ⭐ 2,108 | 🐛 28 | 🌐 Java | 📅 2026-08-21
+* [x] [GitHub](https://github.com/bk138/droidVNC-NG) ⭐ 2,108 | 🐛 26 | 🌐 Java | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=net.christianbeier.droidvnc_ng)
 * [x] [F-Droid](https://f-droid.org/packages/net.christianbeier.droidvnc_ng/)
 * [ ] Official page
@@ -2677,7 +2677,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="BreezyWeatherIcon" height="64" src="https://github.com/breezy-weather/breezy-weather/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp">
 
-* [x] [GitHub](https://github.com/breezy-weather/breezy-weather) ⭐ 11,119 | 🐛 121 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/breezy-weather/breezy-weather) ⭐ 11,140 | 🐛 121 | 🌐 Kotlin | 📅 2026-08-23
 * [ ] Google Play
 * [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)
 * [ ] Official page
@@ -2731,7 +2731,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="CirrusIcon" height="64" src="https://raw.githubusercontent.com/woheller69/omweather/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/woheller69/omweather) ⭐ 602 | 🐛 10 | 🌐 Java | 📅 2026-08-22
+* [x] [GitHub](https://github.com/woheller69/omweather) ⭐ 605 | 🐛 10 | 🌐 Java | 📅 2026-08-22
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/de/packages/org.woheller69.omweather/)
 * [ ] Official page
@@ -2755,7 +2755,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="WikipediaIcon" height="64" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikipedia_mobile_app_logo.png">
 
-* [x] [GitHub](https://github.com/wikimedia/apps-android-wikipedia) ⭐ 3,010 | 🐛 41 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/wikimedia/apps-android-wikipedia) ⭐ 3,010 | 🐛 38 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.wikipedia)
 * [x] [F-Droid](https://f-droid.org/en/packages/org.wikipedia/)
 * [x] [Official page](https://www.wikipedia.org/)
@@ -2764,7 +2764,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="KiwixIcon" height="64" src="https://raw.githubusercontent.com/kiwix/kiwix-android/main/ic_launcher-web.png">
 
-* [x] [GitHub](https://github.com/kiwix/kiwix-android) ⭐ 1,451 | 🐛 110 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/kiwix/kiwix-android) ⭐ 1,450 | 🐛 110 | 🌐 Kotlin | 📅 2026-08-24
 * [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
 * [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
 * [x] [Official page](https://www.kiwix.org)
@@ -2795,7 +2795,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="NewPipeIcon" height="64" src="https://newpipe.net/img/logo.svg">
 
-* [x] [GitHub](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,473 | 🐛 1,454 | 🌐 Java | 📅 2026-08-23
+* [x] [GitHub](https://github.com/TeamNewPipe/NewPipe) ⭐ 39,479 | 🐛 1,448 | 🌐 Java | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
 * [x] [Official page](https://newpipe.net/)
@@ -2813,7 +2813,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="PipePipeIcon" height="64" src="https://raw.githubusercontent.com/InfinityLoop1308/PipePipe/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/InfinityLoop1308/PipePipe) ⭐ 5,955 | 🐛 146 | 🌐 Shell | 📅 2026-08-23
+* [x] [GitHub](https://github.com/InfinityLoop1308/PipePipe) ⭐ 5,958 | 🐛 147 | 🌐 Shell | 📅 2026-08-23
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)
 * [ ] Official page
@@ -2840,7 +2840,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="LibreTubeIcon" height="64" src="https://raw.githubusercontent.com/libre-tube/LibreTube/master/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/libre-tube/LibreTube) ⭐ 12,545 | 🐛 152 | 🌐 Kotlin | 📅 2026-08-24
+* [x] [GitHub](https://github.com/libre-tube/LibreTube) ⭐ 12,546 | 🐛 156 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
 * [x] [Official page](https://libre-tube.github.io/)
@@ -2867,7 +2867,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="YTDLnisIcon" height="64" src="https://github.com/deniscerri/ytdlnis/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/deniscerri/ytdlnis) ⭐ 9,781 | 🐛 66 | 🌐 Kotlin | 📅 2026-08-23
+* [x] [GitHub](https://github.com/deniscerri/ytdlnis) ⭐ 9,788 | 🐛 66 | 🌐 Kotlin | 📅 2026-08-24
 * [ ] Google Play
 * [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
 * [ ] Official page
@@ -2876,7 +2876,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="SealIcon" height="64" src="https://github.com/JunkFood02/Seal/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
-* [x] [GitHub](https://github.com/JunkFood02/Seal) ⭐ 28,426 | 🐛 706 | 🌐 Kotlin | 📅 2026-07-25
+* [x] [GitHub](https://github.com/JunkFood02/Seal) ⭐ 28,434 | 🐛 706 | 🌐 Kotlin | 📅 2026-07-25
 * [ ] Google Play
 * [x] [F-Droid](https://f-droid.org/en/packages/com.junkfood.seal/)
 * [ ] Official page
@@ -2887,15 +2887,15 @@ Currently being reworked as Neo Launcher.
 
 ### Contributors to this repo
 
-[![GitHub contributors](https://contrib.rocks/image?repo=Psyhackological/AAA)](https://github.com/Psyhackological/AAA/graphs/contributors) ⭐ 3,042 | 🐛 5 | 📅 2026-08-11
+[![GitHub contributors](https://contrib.rocks/image?repo=Psyhackological/AAA)](https://github.com/Psyhackological/AAA/graphs/contributors) ⭐ 3,043 | 🐛 5 | 📅 2026-08-11
 
-### pluja/[awesome-privacy](https://github.com/pluja/awesome-privacy) ⭐ 19,594 | 🐛 536 | 🌐 Python | 📅 2026-07-15
+### pluja/[awesome-privacy](https://github.com/pluja/awesome-privacy) ⭐ 19,596 | 🐛 537 | 🌐 Python | 📅 2026-07-15
 
 <img alt="pluja/awesome-privacyIcon" width="256" src="https://github.com/pluja/awesome-privacy/raw/main/misc/logo.png">
 
-### offa/[android-foss](https://github.com/offa/android-foss) ⭐ 11,005 | 🐛 31 | 🌐 Python | 📅 2026-08-22
+### offa/[android-foss](https://github.com/offa/android-foss) ⭐ 11,009 | 🐛 32 | 🌐 Python | 📅 2026-08-22
 
-### JStumpp/[awesome-android](https://github.com/JStumpp/awesome-android) ⭐ 12,296 | 🐛 94 | 📅 2025-10-27
+### JStumpp/[awesome-android](https://github.com/JStumpp/awesome-android) ⭐ 12,296 | 🐛 95 | 📅 2025-10-27
 
 <img alt="JStumpp/awesome-androidIcon" width="256" src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">
 
