@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "beemdevelopment/Aegis",
               "description": null,
               "children": [],
               "repo_info": {
@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-16T10:50:56Z",
                 "owner": "beemdevelopment",
                 "repo": "Aegis",
-                "stars": 12963
+                "stars": 12964
               }
             }
           ],
@@ -29,7 +29,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "stratumauth/app",
               "description": null,
               "children": [],
               "repo_info": {
@@ -51,14 +51,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ente/ente",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 560284721,
                 "language": "Dart",
-                "last_commit": "2026-08-24T22:40:18Z",
+                "last_commit": "2026-08-25T05:54:20Z",
                 "owner": "ente",
                 "repo": "ente",
                 "stars": 28486
@@ -79,7 +79,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "AdAway/AdAway",
               "description": null,
               "children": [],
               "repo_info": {
@@ -101,7 +101,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "julian-klode/dns66",
               "description": null,
               "children": [],
               "repo_info": {
@@ -123,7 +123,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Gedsh/InviZible",
               "description": null,
               "children": [],
               "repo_info": {
@@ -145,7 +145,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "M66B/NetGuard",
               "description": null,
               "children": [],
               "repo_info": {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-01T21:29:40Z",
                 "owner": "M66B",
                 "repo": "NetGuard",
-                "stars": 3844
+                "stars": 3845
               }
             }
           ],
@@ -167,7 +167,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "IngoZenz/personaldnsfilter",
               "description": null,
               "children": [],
               "repo_info": {
@@ -189,7 +189,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "celzero/rethink-app",
               "description": null,
               "children": [],
               "repo_info": {
@@ -199,7 +199,7 @@
                 "last_commit": "2026-08-24T17:44:52Z",
                 "owner": "celzero",
                 "repo": "rethink-app",
-                "stars": 5331
+                "stars": 5332
               }
             }
           ],
@@ -211,7 +211,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "TrackerControl/tracker-control-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -221,7 +221,7 @@
                 "last_commit": "2026-08-24T20:37:00Z",
                 "owner": "TrackerControl",
                 "repo": "tracker-control-android",
-                "stars": 2613
+                "stars": 2614
               }
             }
           ],
@@ -233,7 +233,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "TrianguloY/URLCheck",
               "description": null,
               "children": [],
               "repo_info": {
@@ -255,7 +255,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Exodus-Privacy/exodus-android-app",
               "description": null,
               "children": [],
               "repo_info": {
@@ -283,7 +283,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "off-grid-ai/OGAM",
               "description": null,
               "children": [],
               "repo_info": {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-08-24T16:44:50Z",
                 "owner": "off-grid-ai",
                 "repo": "OGAM",
-                "stars": 2991
+                "stars": 2992
               }
             }
           ],
@@ -305,7 +305,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "woheller69/whoBIRD",
               "description": null,
               "children": [],
               "repo_info": {
@@ -327,7 +327,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "slavabarkov/tidy",
               "description": null,
               "children": [],
               "repo_info": {
@@ -355,7 +355,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "BlackyHawky/Clock",
               "description": null,
               "children": [],
               "repo_info": {
@@ -377,7 +377,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "you-apps/ClockYou",
               "description": null,
               "children": [],
               "repo_info": {
@@ -399,7 +399,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Clock",
               "description": null,
               "children": [],
               "repo_info": {
@@ -421,7 +421,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "vicolo-dev/chrono",
               "description": null,
               "children": [],
               "repo_info": {
@@ -449,7 +449,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "topjohnwu/Magisk",
               "description": null,
               "children": [],
               "repo_info": {
@@ -459,7 +459,7 @@
                 "last_commit": "2026-08-24T18:49:40Z",
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 62411
+                "stars": 62412
               }
             }
           ],
@@ -471,7 +471,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "SmartPack/SmartPack-Kernel-Manager",
               "description": null,
               "children": [],
               "repo_info": {
@@ -493,7 +493,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "deltazefiro/Amarok-Hider",
               "description": null,
               "children": [],
               "repo_info": {
@@ -503,7 +503,7 @@
                 "last_commit": "2026-08-11T08:11:11Z",
                 "owner": "deltazefiro",
                 "repo": "Amarok-Hider",
-                "stars": 3207
+                "stars": 3209
               }
             }
           ],
@@ -521,7 +521,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "aniyomiorg/aniyomi",
               "description": null,
               "children": [],
               "repo_info": {
@@ -531,7 +531,7 @@
                 "last_commit": "2026-08-19T14:51:58Z",
                 "owner": "aniyomiorg",
                 "repo": "aniyomi",
-                "stars": 7624
+                "stars": 7625
               }
             }
           ],
@@ -543,7 +543,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "az4521/TachiyomiAZ",
               "description": null,
               "children": [],
               "repo_info": {
@@ -565,7 +565,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "jobobby04/TachiyomiSY",
               "description": null,
               "children": [],
               "repo_info": {
@@ -575,7 +575,7 @@
                 "last_commit": "2026-08-18T19:52:50Z",
                 "owner": "jobobby04",
                 "repo": "TachiyomiSY",
-                "stars": 4111
+                "stars": 4112
               }
             }
           ],
@@ -587,17 +587,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Kotatsu-Redo/Kotatsu-Redo",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1090523770,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T23:34:27Z",
+                "last_commit": "2026-08-25T02:18:33Z",
                 "owner": "Kotatsu-Redo",
                 "repo": "Kotatsu-Redo",
-                "stars": 825
+                "stars": 827
               }
             }
           ],
@@ -609,7 +609,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "IReaderorg/IReader",
               "description": null,
               "children": [],
               "repo_info": {
@@ -619,7 +619,7 @@
                 "last_commit": "2026-08-24T19:59:00Z",
                 "owner": "IReaderorg",
                 "repo": "IReader",
-                "stars": 922
+                "stars": 923
               }
             }
           ],
@@ -637,7 +637,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "NeoApplications/Neo-Backup",
               "description": null,
               "children": [],
               "repo_info": {
@@ -665,7 +665,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "trynoice/android-app",
               "description": null,
               "children": [],
               "repo_info": {
@@ -693,7 +693,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "markusfisch/BinaryEye",
               "description": null,
               "children": [],
               "repo_info": {
@@ -703,7 +703,7 @@
                 "last_commit": "2026-08-21T19:55:07Z",
                 "owner": "markusfisch",
                 "repo": "BinaryEye",
-                "stars": 2354
+                "stars": 2355
               }
             }
           ],
@@ -715,7 +715,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "SecUSo/privacy-friendly-qr-scanner",
               "description": null,
               "children": [],
               "repo_info": {
@@ -737,7 +737,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Fr4gorSoftware/SecScanQR",
               "description": null,
               "children": [],
               "repo_info": {
@@ -759,7 +759,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "tomfong/simple-qr",
               "description": null,
               "children": [],
               "repo_info": {
@@ -787,14 +787,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "uazo/cromite",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 257841809,
                 "language": "C++",
-                "last_commit": "2026-08-23T03:46:53Z",
+                "last_commit": "2026-08-25T03:44:44Z",
                 "owner": "uazo",
                 "repo": "cromite",
                 "stars": 8107
@@ -809,17 +809,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "brave/brave-browser",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-24T16:04:09Z",
+                "last_commit": "2026-08-25T04:03:20Z",
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23434
+                "stars": 23435
               }
             }
           ],
@@ -831,7 +831,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "fork-maintainers/iceraven-browser",
               "description": null,
               "children": [],
               "repo_info": {
@@ -841,7 +841,7 @@
                 "last_commit": "2026-08-24T16:03:31Z",
                 "owner": "fork-maintainers",
                 "repo": "iceraven-browser",
-                "stars": 6364
+                "stars": 6365
               }
             }
           ],
@@ -859,7 +859,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Bubu/android-calculatorpp",
               "description": null,
               "children": [],
               "repo_info": {
@@ -881,7 +881,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "prathameshmm02/Calculator-inator",
               "description": null,
               "children": [],
               "repo_info": {
@@ -903,7 +903,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Yet-Zio/yetCalc",
               "description": null,
               "children": [],
               "repo_info": {
@@ -925,7 +925,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "clementwzk/OpenCalc",
               "description": null,
               "children": [],
               "repo_info": {
@@ -947,7 +947,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "sosauce/Vanilla",
               "description": null,
               "children": [],
               "repo_info": {
@@ -975,7 +975,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Calendar",
               "description": null,
               "children": [],
               "repo_info": {
@@ -985,7 +985,7 @@
                 "last_commit": "2026-08-24T17:45:31Z",
                 "owner": "FossifyOrg",
                 "repo": "Calendar",
-                "stars": 2117
+                "stars": 2118
               }
             }
           ],
@@ -997,7 +997,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Etar-Group/Etar-Calendar",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1019,7 +1019,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "KashCal/KashCal",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1047,7 +1047,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "GrapheneOS/Camera",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1075,7 +1075,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "skydoves/chatgpt-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1085,7 +1085,7 @@
                 "last_commit": "2026-01-03T01:54:02Z",
                 "owner": "skydoves",
                 "repo": "chatgpt-android",
-                "stars": 3867
+                "stars": 3868
               }
             }
           ],
@@ -1103,7 +1103,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "lichess-org/lichobile",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1131,7 +1131,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "MOIMOB/drinkable",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1159,7 +1159,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Contacts",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1187,7 +1187,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "markusfisch/Libra",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1215,17 +1215,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "KDE/kdeconnect-kde",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 42725503,
                 "language": "C++",
-                "last_commit": "2026-08-24T19:52:14Z",
+                "last_commit": "2026-08-25T03:38:53Z",
                 "owner": "KDE",
                 "repo": "kdeconnect-kde",
-                "stars": 3950
+                "stars": 3952
               }
             }
           ],
@@ -1237,7 +1237,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "localsend/localsend",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1247,7 +1247,7 @@
                 "last_commit": "2026-08-24T00:11:36Z",
                 "owner": "localsend",
                 "repo": "localsend",
-                "stars": 89265
+                "stars": 89293
               }
             }
           ],
@@ -1265,7 +1265,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Chooloo/koler",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1287,7 +1287,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Phone",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1315,7 +1315,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "hanjoongcho/aaf-easydiary",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1337,7 +1337,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "billthefarmer/diary",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1365,7 +1365,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "TachibanaGeneralLaboratories/download-navi",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1375,7 +1375,7 @@
                 "last_commit": "2025-05-24T06:20:12Z",
                 "owner": "TachibanaGeneralLaboratories",
                 "repo": "download-navi",
-                "stars": 1060
+                "stars": 1061
               }
             }
           ],
@@ -1387,7 +1387,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "amir1376/ab-download-manager",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1397,7 +1397,7 @@
                 "last_commit": "2026-08-22T20:13:36Z",
                 "owner": "amir1376",
                 "repo": "ab-download-manager",
-                "stars": 17449
+                "stars": 17456
               }
             }
           ],
@@ -1415,7 +1415,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Aliucord/Aliucord",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1437,7 +1437,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "revenge-mod/revenge-bundle",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1465,7 +1465,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ossappscollective/OSS-DocumentScanner",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1475,7 +1475,7 @@
                 "last_commit": "2026-08-23T12:37:23Z",
                 "owner": "ossappscollective",
                 "repo": "OSS-DocumentScanner",
-                "stars": 2381
+                "stars": 2382
               }
             }
           ],
@@ -1493,14 +1493,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Catrobat/Paintroid",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 5192255,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T01:43:44Z",
+                "last_commit": "2026-08-25T01:38:30Z",
                 "owner": "Catrobat",
                 "repo": "Paintroid",
                 "stars": 496
@@ -1521,7 +1521,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "foobnix/LibreraReader",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1543,7 +1543,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "koreader/koreader",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1553,7 +1553,7 @@
                 "last_commit": "2026-08-24T18:06:33Z",
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29240
+                "stars": 29245
               }
             }
           ],
@@ -1565,7 +1565,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Pool-Of-Tears/Myne",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1593,7 +1593,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "M66B/FairEmail",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1615,7 +1615,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "thunderbird/thunderbird-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1625,7 +1625,7 @@
                 "last_commit": "2026-08-24T14:12:58Z",
                 "owner": "thunderbird",
                 "repo": "thunderbird-android",
-                "stars": 13905
+                "stars": 13908
               }
             }
           ],
@@ -1637,7 +1637,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ProtonMail/android-mail",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1659,7 +1659,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "simple-login/Simple-Login-Android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1687,7 +1687,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Droid-ify/client",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1697,7 +1697,7 @@
                 "last_commit": "2026-08-24T00:45:55Z",
                 "owner": "Droid-ify",
                 "repo": "client",
-                "stars": 7308
+                "stars": 7309
               }
             }
           ],
@@ -1709,7 +1709,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "NeoApplications/Neo-Store",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1719,7 +1719,7 @@
                 "last_commit": "2026-04-25T23:48:57Z",
                 "owner": "NeoApplications",
                 "repo": "Neo-Store",
-                "stars": 4930
+                "stars": 4933
               }
             }
           ],
@@ -1731,7 +1731,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Nandanrmenon/florid",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1759,7 +1759,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "zhanghai/MaterialFiles",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1769,7 +1769,7 @@
                 "last_commit": "2026-04-06T02:43:10Z",
                 "owner": "zhanghai",
                 "repo": "MaterialFiles",
-                "stars": 8800
+                "stars": 8803
               }
             }
           ],
@@ -1781,7 +1781,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "TeamAmaze/AmazeFileManager",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1803,7 +1803,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/File-Manager",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1831,7 +1831,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "syncthing/syncthing-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1853,7 +1853,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "researchxxl/syncthing-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1863,7 +1863,7 @@
                 "last_commit": "2026-08-24T12:52:28Z",
                 "owner": "researchxxl",
                 "repo": "syncthing-android",
-                "stars": 2673
+                "stars": 2674
               }
             }
           ],
@@ -1875,7 +1875,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "schlagmichdoch/PairDrop",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1885,7 +1885,7 @@
                 "last_commit": "2026-04-22T20:27:50Z",
                 "owner": "schlagmichdoch",
                 "repo": "PairDrop",
-                "stars": 11233
+                "stars": 11237
               }
             }
           ],
@@ -1903,7 +1903,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "sal0max/currencies",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1925,7 +1925,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "AndreAle94/moneywallet",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1947,7 +1947,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "mtotschnig/MyExpenses",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1969,7 +1969,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "jerameel/sushi",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1997,14 +1997,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ankidroid/Anki-Android",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 7716883,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T16:58:03Z",
+                "last_commit": "2026-08-24T23:45:22Z",
                 "owner": "ankidroid",
                 "repo": "Anki-Android",
                 "stars": 11613
@@ -2019,14 +2019,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "rh-id/a-flash-deck",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 440377534,
                 "language": "Java",
-                "last_commit": "2026-08-24T15:14:44Z",
+                "last_commit": "2026-08-25T04:36:55Z",
                 "owner": "rh-id",
                 "repo": "a-flash-deck",
                 "stars": 46
@@ -2041,7 +2041,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "uestueab/app-thesis",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2069,7 +2069,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Gallery",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2079,7 +2079,7 @@
                 "last_commit": "2026-08-17T04:09:59Z",
                 "owner": "FossifyOrg",
                 "repo": "Gallery",
-                "stars": 3633
+                "stars": 3634
               }
             }
           ],
@@ -2091,7 +2091,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "deckerst/aves",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2101,7 +2101,7 @@
                 "last_commit": "2026-08-08T22:56:02Z",
                 "owner": "deckerst",
                 "repo": "aves",
-                "stars": 5138
+                "stars": 5140
               }
             }
           ],
@@ -2113,7 +2113,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "IacobIonut01/ReFra",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2123,7 +2123,7 @@
                 "last_commit": "2026-08-24T05:51:41Z",
                 "owner": "IacobIonut01",
                 "repo": "ReFra",
-                "stars": 2672
+                "stars": 2673
               }
             }
           ],
@@ -2141,7 +2141,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Anuken/Mindustry",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2151,7 +2151,7 @@
                 "last_commit": "2026-08-24T07:10:18Z",
                 "owner": "Anuken",
                 "repo": "Mindustry",
-                "stars": 28726
+                "stars": 28729
               }
             }
           ],
@@ -2163,7 +2163,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "00-Evan/shattered-pixel-dungeon",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2185,7 +2185,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "chrisboyle/sgtpuzzles",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2207,7 +2207,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "SecUSo/privacy-friendly-sudoku",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2229,7 +2229,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "yairm210/Unciv",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2239,7 +2239,7 @@
                 "last_commit": "2026-08-24T15:14:47Z",
                 "owner": "yairm210",
                 "repo": "Unciv",
-                "stars": 11128
+                "stars": 11129
               }
             }
           ],
@@ -2251,7 +2251,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "mwageringel/everest",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2273,7 +2273,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "luanti-org/luanti",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2283,7 +2283,7 @@
                 "last_commit": "2026-08-21T14:30:26Z",
                 "owner": "luanti-org",
                 "repo": "luanti",
-                "stars": 13489
+                "stars": 13492
               }
             }
           ],
@@ -2301,7 +2301,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "slapperwan/gh4a",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2311,7 +2311,7 @@
                 "last_commit": "2025-12-09T10:30:56Z",
                 "owner": "slapperwan",
                 "repo": "gh4a",
-                "stars": 1994
+                "stars": 1993
               }
             }
           ],
@@ -2323,7 +2323,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "namanshergill/diohub",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2351,7 +2351,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ImranR98/Obtainium",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2361,7 +2361,7 @@
                 "last_commit": "2026-08-24T05:25:46Z",
                 "owner": "ImranR98",
                 "repo": "Obtainium",
-                "stars": 19228
+                "stars": 19235
               }
             }
           ],
@@ -2373,7 +2373,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "accrescent/accrescent",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2383,7 +2383,7 @@
                 "last_commit": "2026-08-24T05:20:40Z",
                 "owner": "accrescent",
                 "repo": "accrescent",
-                "stars": 2220
+                "stars": 2219
               }
             }
           ],
@@ -2401,7 +2401,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "CorruptedArk/did-i-take-my-meds",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2423,7 +2423,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "rh-id/a-medic-log",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2445,7 +2445,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Futsch1/medTimer",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2473,7 +2473,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Arcticons-Team/Arcticons",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2495,7 +2495,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Delta-Icons/android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2523,7 +2523,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "caydey/ffshare",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2545,7 +2545,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "T8RIN/ImageToolbox",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2555,7 +2555,7 @@
                 "last_commit": "2026-08-24T22:56:01Z",
                 "owner": "T8RIN",
                 "repo": "ImageToolbox",
-                "stars": 14345
+                "stars": 14347
               }
             }
           ],
@@ -2573,7 +2573,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "signalapp/Signal-Android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2583,7 +2583,7 @@
                 "last_commit": "2026-08-21T21:14:44Z",
                 "owner": "signalapp",
                 "repo": "Signal-Android",
-                "stars": 29251
+                "stars": 29253
               }
             }
           ],
@@ -2595,7 +2595,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "mollyim/mollyim-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2605,7 +2605,7 @@
                 "last_commit": "2026-08-22T00:17:27Z",
                 "owner": "mollyim",
                 "repo": "mollyim-android",
-                "stars": 3663
+                "stars": 3664
               }
             }
           ],
@@ -2617,7 +2617,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "oxen-io/session-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2639,7 +2639,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "NekoX-Dev/NekoX",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2661,7 +2661,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "OwlGramDev/OwlGram",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2683,17 +2683,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "deltachat/deltachat-android",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 62486091,
                 "language": "Java",
-                "last_commit": "2026-08-24T18:42:46Z",
+                "last_commit": "2026-08-25T02:28:03Z",
                 "owner": "deltachat",
                 "repo": "deltachat-android",
-                "stars": 1805
+                "stars": 1807
               }
             }
           ],
@@ -2711,7 +2711,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "HeliBorg/HeliBoard",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2721,7 +2721,7 @@
                 "last_commit": "2026-08-10T17:52:42Z",
                 "owner": "HeliBorg",
                 "repo": "HeliBoard",
-                "stars": 5922
+                "stars": 5924
               }
             }
           ],
@@ -2733,7 +2733,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "fcitx5-android/fcitx5-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2743,7 +2743,7 @@
                 "last_commit": "2026-08-21T15:27:49Z",
                 "owner": "fcitx5-android",
                 "repo": "fcitx5-android",
-                "stars": 5575
+                "stars": 5577
               }
             }
           ],
@@ -2755,7 +2755,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "florisboard/florisboard",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2765,7 +2765,7 @@
                 "last_commit": "2026-08-21T22:45:34Z",
                 "owner": "florisboard",
                 "repo": "florisboard",
-                "stars": 8590
+                "stars": 8591
               }
             }
           ],
@@ -2777,7 +2777,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "dessalines/thumb-key",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2799,7 +2799,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Julow/Unexpected-Keyboard",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2827,7 +2827,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "JLindemann42/Atomic-Periodic-Table.Android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2849,7 +2849,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "SimonSchubert/LinuxCommandLibrary",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2877,7 +2877,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "MM2-0/Kvaesitso",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2887,7 +2887,7 @@
                 "last_commit": "2026-08-23T16:28:51Z",
                 "owner": "MM2-0",
                 "repo": "Kvaesitso",
-                "stars": 5032
+                "stars": 5038
               }
             }
           ],
@@ -2899,7 +2899,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "LawnchairLauncher/lawnchair",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2909,7 +2909,7 @@
                 "last_commit": "2026-08-24T06:07:57Z",
                 "owner": "LawnchairLauncher",
                 "repo": "lawnchair",
-                "stars": 13387
+                "stars": 13389
               }
             }
           ],
@@ -2921,7 +2921,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "NeoApplications/Neo-Launcher",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2943,7 +2943,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Neamar/KISS",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2965,7 +2965,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "iamrasel/lunar-launcher",
               "description": null,
               "children": [],
               "repo_info": {
@@ -2993,7 +2993,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "LemmyNet/jerboa",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3015,7 +3015,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "thunder-app/thunder",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3043,7 +3043,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "organicmaps/organicmaps",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3065,7 +3065,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "comaps/comaps",
               "description": "/ Codeberg",
               "children": [],
               "repo_info": {
@@ -3087,17 +3087,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "osmandapp/OsmAnd",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1258570,
                 "language": "Java",
-                "last_commit": "2026-08-24T22:14:21Z",
+                "last_commit": "2026-08-25T05:37:15Z",
                 "owner": "osmandapp",
                 "repo": "OsmAnd",
-                "stars": 5924
+                "stars": 5925
               }
             }
           ],
@@ -3115,7 +3115,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "tuskyapp/Tusky",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3143,7 +3143,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "element-hq/element-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3171,7 +3171,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "meditohq/medito-app",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3193,7 +3193,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "russellbanks/BuddhaQuotes",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3221,7 +3221,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "MuntashirAkon/Metro",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3243,7 +3243,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "OxygenCobalt/Auxio",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3253,7 +3253,7 @@
                 "last_commit": "2026-08-04T04:07:24Z",
                 "owner": "OxygenCobalt",
                 "repo": "Auxio",
-                "stars": 4190
+                "stars": 4192
               }
             }
           ],
@@ -3265,7 +3265,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "enricocid/Music-Player-GO",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3287,7 +3287,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "VinylMusicPlayer/VinylMusicPlayer",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3309,7 +3309,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Iamlooker/Howl",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3331,7 +3331,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "gauravjot/android-noad-music-player",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3353,7 +3353,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "moritz-weber/mucke",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3375,7 +3375,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Music-Player",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3397,7 +3397,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "martinmimigames/tiny-music-player",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3425,7 +3425,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "kawaiiDango/pano-scrobbler",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3447,7 +3447,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "simple-last-fm-scrobbler/sls",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3475,7 +3475,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "OmGodse/Notally",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3497,7 +3497,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "laurent22/joplin",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3507,7 +3507,7 @@
                 "last_commit": "2026-08-24T18:44:47Z",
                 "owner": "laurent22",
                 "repo": "joplin",
-                "stars": 56087
+                "stars": 56090
               }
             }
           ],
@@ -3519,7 +3519,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "keshav-space/safenotes",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3541,14 +3541,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "gsantner/markor",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 101451042,
                 "language": "Java",
-                "last_commit": "2026-08-24T17:02:06Z",
+                "last_commit": "2026-08-25T04:20:27Z",
                 "owner": "gsantner",
                 "repo": "markor",
                 "stars": 6021
@@ -3563,14 +3563,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Notes",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 614015332,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T21:24:15Z",
+                "last_commit": "2026-08-25T02:03:41Z",
                 "owner": "FossifyOrg",
                 "repo": "Notes",
                 "stars": 486
@@ -3591,7 +3591,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "mtotschnig/OCR",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3619,7 +3619,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "CollaboraOnline/online",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3629,7 +3629,7 @@
                 "last_commit": "2026-08-18T13:45:37Z",
                 "owner": "CollaboraOnline",
                 "repo": "online",
-                "stars": 3324
+                "stars": 3325
               }
             }
           ],
@@ -3647,7 +3647,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "MuntashirAkon/AppManager",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3657,7 +3657,7 @@
                 "last_commit": "2026-08-22T20:02:03Z",
                 "owner": "MuntashirAkon",
                 "repo": "AppManager",
-                "stars": 8813
+                "stars": 8815
               }
             }
           ],
@@ -3669,7 +3669,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "SmartPack/PackageManager",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3697,7 +3697,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "bitwarden/mobile",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3719,7 +3719,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "PhilippC/keepass2android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3741,7 +3741,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Kunzisoft/KeePassDX",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3751,7 +3751,7 @@
                 "last_commit": "2026-08-23T10:43:34Z",
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7173
+                "stars": 7175
               }
             }
           ],
@@ -3769,7 +3769,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "GrapheneOS/PdfViewer",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3779,7 +3779,7 @@
                 "last_commit": "2026-08-24T21:23:42Z",
                 "owner": "GrapheneOS",
                 "repo": "PdfViewer",
-                "stars": 1020
+                "stars": 1019
               }
             }
           ],
@@ -3797,7 +3797,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "aeri/Florae",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3825,7 +3825,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "grote/Transportr",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3853,7 +3853,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "AntennaPod/AntennaPod",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3881,7 +3881,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Docile-Alligator/Infinity-For-Reddit",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3909,7 +3909,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "m-i-n-a-r/randomix",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3937,7 +3937,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ReadYouApp/ReadYou",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3947,7 +3947,7 @@
                 "last_commit": "2026-08-11T17:26:59Z",
                 "owner": "ReadYouApp",
                 "repo": "ReadYou",
-                "stars": 7451
+                "stars": 7452
               }
             }
           ],
@@ -3959,7 +3959,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "jocmp/capyreader",
               "description": null,
               "children": [],
               "repo_info": {
@@ -3969,7 +3969,7 @@
                 "last_commit": "2026-08-03T09:50:40Z",
                 "owner": "jocmp",
                 "repo": "capyreader",
-                "stars": 1331
+                "stars": 1332
               }
             }
           ],
@@ -3987,7 +3987,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Messages",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4009,7 +4009,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "quik-sms/quik",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4037,7 +4037,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "jellyfin/jellyfin-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4059,7 +4059,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "jarnedemeulemeester/findroid",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4087,7 +4087,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "AudileTeam/Audile",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4097,7 +4097,7 @@
                 "last_commit": "2026-08-24T17:35:39Z",
                 "owner": "AudileTeam",
                 "repo": "Audile",
-                "stars": 1263
+                "stars": 1264
               }
             }
           ],
@@ -4115,7 +4115,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "vhaudiquet/BladePlayer",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4143,7 +4143,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "connectbot/connectbot",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4171,7 +4171,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "sky-map-team/stardroid",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4181,7 +4181,7 @@
                 "last_commit": "2026-08-24T01:03:11Z",
                 "owner": "sky-map-team",
                 "repo": "stardroid",
-                "stars": 1798
+                "stars": 1799
               }
             }
           ],
@@ -4199,7 +4199,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "recloudstream/cloudstream",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4209,7 +4209,7 @@
                 "last_commit": "2026-08-23T13:34:30Z",
                 "owner": "recloudstream",
                 "repo": "cloudstream",
-                "stars": 10520
+                "stars": 10523
               }
             }
           ],
@@ -4221,7 +4221,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "DatL4g/Mimasu-Extension",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4249,7 +4249,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ligi/SurvivalManual",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4271,17 +4271,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "kylecorry31/Trail-Sense",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 215154276,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T22:01:59Z",
+                "last_commit": "2026-08-24T23:23:52Z",
                 "owner": "kylecorry31",
                 "repo": "Trail-Sense",
-                "stars": 2819
+                "stars": 2820
               }
             }
           ],
@@ -4293,7 +4293,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Kr0oked/Compass",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4303,7 +4303,7 @@
                 "last_commit": "2026-08-04T18:56:03Z",
                 "owner": "Kr0oked",
                 "repo": "Compass",
-                "stars": 662
+                "stars": 663
               }
             }
           ],
@@ -4321,7 +4321,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "d4rken-org/sdmaid-se",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4349,7 +4349,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "termux/termux-app",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4359,7 +4359,7 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59725
+                "stars": 59737
               }
             }
           ],
@@ -4377,17 +4377,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Acode-Foundation/Acode",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 217150613,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T10:08:01Z",
+                "last_commit": "2026-08-25T05:08:17Z",
                 "owner": "Acode-Foundation",
                 "repo": "Acode",
-                "stars": 6675
+                "stars": 6677
               }
             }
           ],
@@ -4399,7 +4399,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "RohitKushvaha01/Xed-Editor",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4427,7 +4427,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "adrcotfas/goodtime",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4449,7 +4449,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "rozPierog/Cofi",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4471,7 +4471,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "woheller69/eggtimer",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4493,14 +4493,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ncosgray/cuppa_mobile",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 93271320,
                 "language": "Dart",
-                "last_commit": "2026-08-15T17:42:24Z",
+                "last_commit": "2026-08-25T04:32:09Z",
                 "owner": "ncosgray",
                 "repo": "cuppa_mobile",
                 "stars": 97
@@ -4521,7 +4521,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "tasks/tasks",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4543,7 +4543,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "RayLeaf-Studios/PocketPlan",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4565,7 +4565,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "darkmoonight/Zest",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4587,7 +4587,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "lolo-io/OneList",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4615,7 +4615,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "albertvaka/bettercounter",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4637,7 +4637,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "m-i-n-a-r/birday",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4659,7 +4659,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Pool-Of-Tears/GreenStash",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4681,7 +4681,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Mazahir26/koduko",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4703,7 +4703,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "iSoron/uhabits",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4713,7 +4713,7 @@
                 "last_commit": "2026-07-21T12:59:15Z",
                 "owner": "iSoron",
                 "repo": "uhabits",
-                "stars": 10160
+                "stars": 10162
               }
             }
           ],
@@ -4725,7 +4725,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "xpavle00/Habo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4735,7 +4735,7 @@
                 "last_commit": "2026-06-15T20:55:35Z",
                 "owner": "xpavle00",
                 "repo": "Habo",
-                "stars": 1484
+                "stars": 1487
               }
             }
           ],
@@ -4747,7 +4747,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "FriesI23/mhabit",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4784,7 +4784,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "mateusz-bak/openreads",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4806,7 +4806,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "trakt/showly",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4828,7 +4828,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Razeeman/Android-SimpleTimeTracker",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4850,7 +4850,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "seaglade/Sobriety",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4872,7 +4872,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Crazy-Marvin/VacationDays",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4894,7 +4894,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "vmiklos/plees-tracker",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4944,7 +4944,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "sakusaku3939/DeepLAndroid",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4966,7 +4966,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ManeraKai/simplytranslate_mobile",
               "description": null,
               "children": [],
               "repo_info": {
@@ -4994,7 +4994,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "twireapp/Twire",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5016,7 +5016,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "crackededed/Xtra",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5038,7 +5038,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "tommyxchow/frosty",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5048,7 +5048,7 @@
                 "last_commit": "2026-08-23T18:08:04Z",
                 "owner": "tommyxchow",
                 "repo": "frosty",
-                "stars": 1049
+                "stars": 1050
               }
             }
           ],
@@ -5066,7 +5066,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "ferraridamiano/ConverterNOW",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5094,7 +5094,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "leon-cleaning-services/leon",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5122,7 +5122,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "moneytoo/Player",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5144,7 +5144,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "mpv-android/mpv-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5154,7 +5154,7 @@
                 "last_commit": "2026-08-22T07:25:49Z",
                 "owner": "mpv-android",
                 "repo": "mpv-android",
-                "stars": 3491
+                "stars": 3492
               }
             }
           ],
@@ -5166,7 +5166,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "abdallahmehiz/mpvKt",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5188,7 +5188,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "nova-video-player/aos-AVP",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5198,7 +5198,7 @@
                 "last_commit": "2026-08-21T19:06:51Z",
                 "owner": "nova-video-player",
                 "repo": "aos-AVP",
-                "stars": 4631
+                "stars": 4633
               }
             }
           ],
@@ -5216,7 +5216,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "gujjwal00/avnc",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5244,7 +5244,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "bk138/droidVNC-NG",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5272,7 +5272,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Dimowner/AudioRecorder",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5294,7 +5294,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "FossifyOrg/Voice-Recorder",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5304,7 +5304,7 @@
                 "last_commit": "2026-08-24T10:35:00Z",
                 "owner": "FossifyOrg",
                 "repo": "Voice-Recorder",
-                "stars": 962
+                "stars": 963
               }
             }
           ],
@@ -5322,7 +5322,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "breezy-weather/breezy-weather",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5332,7 +5332,7 @@
                 "last_commit": "2026-08-23T09:53:06Z",
                 "owner": "breezy-weather",
                 "repo": "breezy-weather",
-                "stars": 11140
+                "stars": 11150
               }
             }
           ],
@@ -5344,7 +5344,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "SpicyChair/pluvia_weather_flutter",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5366,7 +5366,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "martykan/forecastie",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5388,7 +5388,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "Antonis427/veterondo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5410,7 +5410,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "darkmoonight/Rain",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5432,7 +5432,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "woheller69/omweather",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5442,7 +5442,7 @@
                 "last_commit": "2026-08-22T07:14:07Z",
                 "owner": "woheller69",
                 "repo": "omweather",
-                "stars": 605
+                "stars": 606
               }
             }
           ],
@@ -5460,14 +5460,14 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "wikimedia/apps-android-wikipedia",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 13862999,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T23:12:39Z",
+                "last_commit": "2026-08-25T01:56:42Z",
                 "owner": "wikimedia",
                 "repo": "apps-android-wikipedia",
                 "stars": 3010
@@ -5482,7 +5482,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "kiwix/kiwix-android",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5510,7 +5510,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "TeamNewPipe/NewPipe",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5532,7 +5532,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "polymorphicshade/Tubular",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5554,17 +5554,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "InfinityLoop1308/PipePipe",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 490984887,
                 "language": "Shell",
-                "last_commit": "2026-08-23T02:32:44Z",
+                "last_commit": "2026-08-24T23:43:38Z",
                 "owner": "InfinityLoop1308",
                 "repo": "PipePipe",
-                "stars": 5958
+                "stars": 5961
               }
             }
           ],
@@ -5576,7 +5576,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "lamarios/clipious",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5598,7 +5598,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "SkyTubeTeam/SkyTube",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5608,7 +5608,7 @@
                 "last_commit": "2026-08-12T05:52:08Z",
                 "owner": "SkyTubeTeam",
                 "repo": "SkyTube",
-                "stars": 2775
+                "stars": 2776
               }
             }
           ],
@@ -5620,7 +5620,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "libre-tube/LibreTube",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5630,7 +5630,7 @@
                 "last_commit": "2026-08-24T05:53:46Z",
                 "owner": "libre-tube",
                 "repo": "LibreTube",
-                "stars": 12546
+                "stars": 12547
               }
             }
           ],
@@ -5642,7 +5642,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "SongTube/SongTube-App",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5664,7 +5664,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "fast4x/RiMusic",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5686,7 +5686,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "deniscerri/ytdlnis",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5696,7 +5696,7 @@
                 "last_commit": "2026-08-24T19:52:34Z",
                 "owner": "deniscerri",
                 "repo": "ytdlnis",
-                "stars": 9788
+                "stars": 9789
               }
             }
           ],
@@ -5708,7 +5708,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "GitHub",
+              "title": "JunkFood02/Seal",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5718,7 +5718,7 @@
                 "last_commit": "2026-07-25T15:49:47Z",
                 "owner": "JunkFood02",
                 "repo": "Seal",
-                "stars": 28434
+                "stars": 28441
               }
             }
           ],
@@ -5743,7 +5743,7 @@
             "last_commit": "2026-07-15T12:14:09Z",
             "owner": "pluja",
             "repo": "awesome-privacy",
-            "stars": 19596
+            "stars": 19595
           },
           "title": "pluja/awesome-privacy"
         },
@@ -5758,7 +5758,7 @@
             "last_commit": "2026-08-22T18:35:32Z",
             "owner": "offa",
             "repo": "android-foss",
-            "stars": 11009
+            "stars": 11010
           },
           "title": "offa/android-foss"
         },
@@ -5773,7 +5773,7 @@
             "last_commit": "2025-10-27T08:14:07Z",
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12296
+            "stars": 12297
           },
           "title": "JStumpp/awesome-android"
         }
@@ -5782,7 +5782,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:13:59.837Z",
+    "last_updated": "2026-08-25T05:58:03.548Z",
     "original_repository": "Psyhackological/AAA",
     "original_repository_id": 428383546,
     "original_repository_sha": "53f08d37e442b9cbde752cb5fb513271be24c087",
