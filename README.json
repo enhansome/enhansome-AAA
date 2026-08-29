@@ -105,7 +105,7 @@
                 "open_issues": 257,
                 "owner": "ente",
                 "repo": "ente",
-                "stars": 28551,
+                "stars": 28550,
                 "topics": [
                   "2fa",
                   "android",
@@ -157,7 +157,7 @@
                 "open_issues": 670,
                 "owner": "AdAway",
                 "repo": "AdAway",
-                "stars": 9374,
+                "stars": 9375,
                 "topics": [
                   "ad-blocker",
                   "android",
@@ -1311,7 +1311,7 @@
                 "open_issues": 188,
                 "owner": "fork-maintainers",
                 "repo": "iceraven-browser",
-                "stars": 6413,
+                "stars": 6414,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:25:33.541Z"
@@ -1404,7 +1404,7 @@
                 "id": 564679628,
                 "language": "Kotlin",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-20T23:54:17Z",
+                "last_commit": "2026-08-29T04:13:15Z",
                 "open_issues": 38,
                 "owner": "Yet-Zio",
                 "repo": "yetCalc",
@@ -1942,7 +1942,7 @@
                 "open_issues": 1102,
                 "owner": "localsend",
                 "repo": "localsend",
-                "stars": 89605,
+                "stars": 89607,
                 "topics": [
                   "dart",
                   "file-sharing",
@@ -2160,7 +2160,7 @@
                 "open_issues": 433,
                 "owner": "amir1376",
                 "repo": "ab-download-manager",
-                "stars": 17545,
+                "stars": 17546,
                 "topics": [
                   "chrome",
                   "compose",
@@ -2394,7 +2394,7 @@
                 "open_issues": 1326,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 29333,
+                "stars": 29334,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -2528,7 +2528,7 @@
                 "open_issues": 1043,
                 "owner": "thunderbird",
                 "repo": "thunderbird-android",
-                "stars": 13931,
+                "stars": 13932,
                 "topics": [
                   "android",
                   "communication",
@@ -3438,7 +3438,7 @@
                 "open_issues": 151,
                 "owner": "yairm210",
                 "repo": "Unciv",
-                "stars": 11156,
+                "stars": 11157,
                 "topics": [
                   "4x",
                   "4x-strategy-game",
@@ -3510,7 +3510,7 @@
                 "open_issues": 1509,
                 "owner": "luanti-org",
                 "repo": "luanti",
-                "stars": 13517,
+                "stars": 13518,
                 "topics": [
                   "c-plus-plus",
                   "cpp17",
@@ -3629,7 +3629,7 @@
                 "open_issues": 397,
                 "owner": "ImranR98",
                 "repo": "Obtainium",
-                "stars": 19313,
+                "stars": 19314,
                 "topics": [
                   "android",
                   "apk",
@@ -3993,7 +3993,7 @@
                 "open_issues": 487,
                 "owner": "signalapp",
                 "repo": "Signal-Android",
-                "stars": 29262,
+                "stars": 29263,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:25:33.541Z"
@@ -4677,7 +4677,7 @@
                 "open_issues": 3475,
                 "owner": "organicmaps",
                 "repo": "organicmaps",
-                "stars": 15238,
+                "stars": 15239,
                 "topics": [
                   "android",
                   "app",
@@ -5601,7 +5601,7 @@
                 "language": "Shell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T05:00:10Z",
-                "open_issues": 936,
+                "open_issues": 935,
                 "owner": "CollaboraOnline",
                 "repo": "online",
                 "stars": 3330,
@@ -6273,7 +6273,7 @@
                 "open_issues": 303,
                 "owner": "jarnedemeulemeester",
                 "repo": "findroid",
-                "stars": 4221,
+                "stars": 4222,
                 "topics": [
                   "android",
                   "jellyfin",
@@ -6751,7 +6751,7 @@
                 "open_issues": 92,
                 "owner": "Acode-Foundation",
                 "repo": "Acode",
-                "stars": 6726,
+                "stars": 6727,
                 "topics": [
                   "android-application",
                   "code-editor",
@@ -8131,7 +8131,7 @@
                 "open_issues": 26,
                 "owner": "bk138",
                 "repo": "droidVNC-NG",
-                "stars": 2165,
+                "stars": 2166,
                 "topics": [
                   "android",
                   "mediaprojection",
@@ -8241,7 +8241,7 @@
                 "open_issues": 121,
                 "owner": "breezy-weather",
                 "repo": "breezy-weather",
-                "stars": 11229,
+                "stars": 11230,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:25:33.541Z"
@@ -8945,7 +8945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:57:40.030Z",
+    "last_updated": "2026-08-29T04:25:06.884Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!",
