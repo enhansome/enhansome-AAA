@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "beemdevelopment/Aegis",
-              "description": null,
+              "description": "beemdevelopment/Aegis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -46,7 +46,7 @@
             {
               "node_type": "item",
               "title": "stratumauth/app",
-              "description": null,
+              "description": "stratumauth/app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -59,7 +59,7 @@
                 "open_issues": 89,
                 "owner": "stratumauth",
                 "repo": "app",
-                "stars": 4607,
+                "stars": 4606,
                 "topics": [
                   "2fa",
                   "android",
@@ -92,7 +92,7 @@
             {
               "node_type": "item",
               "title": "ente/ente",
-              "description": null,
+              "description": "ente/ente",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -105,7 +105,7 @@
                 "open_issues": 209,
                 "owner": "ente",
                 "repo": "ente",
-                "stars": 29208,
+                "stars": 29210,
                 "topics": [
                   "2fa",
                   "android",
@@ -144,7 +144,7 @@
             {
               "node_type": "item",
               "title": "AdAway/AdAway",
-              "description": null,
+              "description": "AdAway/AdAway",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -178,7 +178,7 @@
             {
               "node_type": "item",
               "title": "julian-klode/dns66",
-              "description": null,
+              "description": "julian-klode/dns66",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -215,7 +215,7 @@
             {
               "node_type": "item",
               "title": "Gedsh/InviZible",
-              "description": null,
+              "description": "Gedsh/InviZible",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -228,7 +228,7 @@
                 "open_issues": 36,
                 "owner": "Gedsh",
                 "repo": "InviZible",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": [
                   "advertising",
                   "android",
@@ -252,7 +252,7 @@
             {
               "node_type": "item",
               "title": "M66B/NetGuard",
-              "description": null,
+              "description": "M66B/NetGuard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -280,7 +280,7 @@
             {
               "node_type": "item",
               "title": "IngoZenz/personaldnsfilter",
-              "description": null,
+              "description": "IngoZenz/personaldnsfilter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -308,7 +308,7 @@
             {
               "node_type": "item",
               "title": "celzero/rethink-app",
-              "description": null,
+              "description": "celzero/rethink-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -353,7 +353,7 @@
             {
               "node_type": "item",
               "title": "TrackerControl/tracker-control-android",
-              "description": null,
+              "description": "TrackerControl/tracker-control-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -362,7 +362,7 @@
                 "id": 220825189,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T03:33:34Z",
+                "last_commit": "2026-10-03T03:41:29Z",
                 "open_issues": 10,
                 "owner": "TrackerControl",
                 "repo": "tracker-control-android",
@@ -385,7 +385,7 @@
             {
               "node_type": "item",
               "title": "TrianguloY/URLCheck",
-              "description": null,
+              "description": "TrianguloY/URLCheck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -419,7 +419,7 @@
             {
               "node_type": "item",
               "title": "Exodus-Privacy/exodus-android-app",
-              "description": null,
+              "description": "Exodus-Privacy/exodus-android-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,7 +457,7 @@
             {
               "node_type": "item",
               "title": "off-grid-ai/OGAM",
-              "description": null,
+              "description": "off-grid-ai/OGAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -506,7 +506,7 @@
             {
               "node_type": "item",
               "title": "woheller69/whoBIRD",
-              "description": null,
+              "description": "woheller69/whoBIRD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +540,7 @@
             {
               "node_type": "item",
               "title": "slavabarkov/tidy",
-              "description": null,
+              "description": "slavabarkov/tidy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -589,7 +589,7 @@
             {
               "node_type": "item",
               "title": "BlackyHawky/Clock",
-              "description": null,
+              "description": "BlackyHawky/Clock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -638,7 +638,7 @@
             {
               "node_type": "item",
               "title": "you-apps/ClockYou",
-              "description": null,
+              "description": "you-apps/ClockYou",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -670,7 +670,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Clock",
-              "description": null,
+              "description": "FossifyOrg/Clock",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -704,7 +704,7 @@
             {
               "node_type": "item",
               "title": "vicolo-dev/chrono",
-              "description": null,
+              "description": "vicolo-dev/chrono",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -745,7 +745,7 @@
             {
               "node_type": "item",
               "title": "topjohnwu/Magisk",
-              "description": null,
+              "description": "topjohnwu/Magisk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -758,7 +758,7 @@
                 "open_issues": 39,
                 "owner": "topjohnwu",
                 "repo": "Magisk",
-                "stars": 63043,
+                "stars": 63045,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:25:33.541Z"
@@ -773,7 +773,7 @@
             {
               "node_type": "item",
               "title": "SmartPack/SmartPack-Kernel-Manager",
-              "description": null,
+              "description": "SmartPack/SmartPack-Kernel-Manager",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -804,7 +804,7 @@
             {
               "node_type": "item",
               "title": "deltazefiro/Amarok-Hider",
-              "description": null,
+              "description": "deltazefiro/Amarok-Hider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -817,7 +817,7 @@
                 "open_issues": 63,
                 "owner": "deltazefiro",
                 "repo": "Amarok-Hider",
-                "stars": 3272,
+                "stars": 3273,
                 "topics": [
                   "android",
                   "android-application",
@@ -844,7 +844,7 @@
             {
               "node_type": "item",
               "title": "aniyomiorg/aniyomi",
-              "description": null,
+              "description": "aniyomiorg/aniyomi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -857,7 +857,7 @@
                 "open_issues": 375,
                 "owner": "aniyomiorg",
                 "repo": "aniyomi",
-                "stars": 7740,
+                "stars": 7741,
                 "topics": [
                   "android",
                   "anime",
@@ -876,7 +876,7 @@
             {
               "node_type": "item",
               "title": "az4521/TachiyomiAZ",
-              "description": null,
+              "description": "az4521/TachiyomiAZ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -904,7 +904,7 @@
             {
               "node_type": "item",
               "title": "jobobby04/TachiyomiSY",
-              "description": null,
+              "description": "jobobby04/TachiyomiSY",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -939,7 +939,7 @@
             {
               "node_type": "item",
               "title": "Kotatsu-Redo/Kotatsu-Redo",
-              "description": null,
+              "description": "Kotatsu-Redo/Kotatsu-Redo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -949,10 +949,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-19T04:53:19Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "Kotatsu-Redo",
                 "repo": "Kotatsu-Redo",
-                "stars": 914,
+                "stars": 915,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:25:33.541Z"
@@ -967,7 +967,7 @@
             {
               "node_type": "item",
               "title": "IReaderorg/IReader",
-              "description": null,
+              "description": "IReaderorg/IReader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1013,7 +1013,7 @@
             {
               "node_type": "item",
               "title": "NeoApplications/Neo-Backup",
-              "description": null,
+              "description": "NeoApplications/Neo-Backup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1053,7 +1053,7 @@
             {
               "node_type": "item",
               "title": "trynoice/android-app",
-              "description": null,
+              "description": "trynoice/android-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1102,7 +1102,7 @@
             {
               "node_type": "item",
               "title": "markusfisch/BinaryEye",
-              "description": null,
+              "description": "markusfisch/BinaryEye",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1137,7 +1137,7 @@
             {
               "node_type": "item",
               "title": "SecUSo/privacy-friendly-qr-scanner",
-              "description": null,
+              "description": "SecUSo/privacy-friendly-qr-scanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1165,7 +1165,7 @@
             {
               "node_type": "item",
               "title": "Fr4gorSoftware/SecScanQR",
-              "description": null,
+              "description": "Fr4gorSoftware/SecScanQR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1193,7 +1193,7 @@
             {
               "node_type": "item",
               "title": "tomfong/simple-qr",
-              "description": null,
+              "description": "tomfong/simple-qr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1235,7 +1235,7 @@
             {
               "node_type": "item",
               "title": "uazo/cromite",
-              "description": null,
+              "description": "uazo/cromite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1248,7 +1248,7 @@
                 "open_issues": 563,
                 "owner": "uazo",
                 "repo": "cromite",
-                "stars": 8312,
+                "stars": 8313,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:25:33.541Z"
@@ -1263,7 +1263,7 @@
             {
               "node_type": "item",
               "title": "brave/brave-browser",
-              "description": null,
+              "description": "brave/brave-browser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1273,10 +1273,10 @@
                 "language": null,
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-02T20:17:14Z",
-                "open_issues": 11004,
+                "open_issues": 11005,
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23779,
+                "stars": 23780,
                 "topics": [
                   "brave",
                   "browser",
@@ -1298,7 +1298,7 @@
             {
               "node_type": "item",
               "title": "fork-maintainers/iceraven-browser",
-              "description": null,
+              "description": "fork-maintainers/iceraven-browser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1308,7 +1308,7 @@
                 "language": "Kotlin",
                 "license": null,
                 "last_commit": "2026-09-30T12:12:40Z",
-                "open_issues": 137,
+                "open_issues": 138,
                 "owner": "fork-maintainers",
                 "repo": "iceraven-browser",
                 "stars": 6498,
@@ -1332,7 +1332,7 @@
             {
               "node_type": "item",
               "title": "Bubu/android-calculatorpp",
-              "description": null,
+              "description": "Bubu/android-calculatorpp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1360,7 +1360,7 @@
             {
               "node_type": "item",
               "title": "prathameshmm02/Calculator-inator",
-              "description": null,
+              "description": "prathameshmm02/Calculator-inator",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1395,7 +1395,7 @@
             {
               "node_type": "item",
               "title": "Yet-Zio/yetCalc",
-              "description": null,
+              "description": "Yet-Zio/yetCalc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1444,7 +1444,7 @@
             {
               "node_type": "item",
               "title": "clementwzk/OpenCalc",
-              "description": null,
+              "description": "clementwzk/OpenCalc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1482,7 +1482,7 @@
             {
               "node_type": "item",
               "title": "sosauce/Vanilla",
-              "description": null,
+              "description": "sosauce/Vanilla",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1521,7 +1521,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Calendar",
-              "description": null,
+              "description": "FossifyOrg/Calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1555,7 +1555,7 @@
             {
               "node_type": "item",
               "title": "Etar-Group/Etar-Calendar",
-              "description": null,
+              "description": "Etar-Group/Etar-Calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1587,7 +1587,7 @@
             {
               "node_type": "item",
               "title": "KashCal/KashCal",
-              "description": null,
+              "description": "KashCal/KashCal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1642,7 +1642,7 @@
             {
               "node_type": "item",
               "title": "GrapheneOS/Camera",
-              "description": null,
+              "description": "GrapheneOS/Camera",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1682,7 +1682,7 @@
             {
               "node_type": "item",
               "title": "skydoves/chatgpt-android",
-              "description": null,
+              "description": "skydoves/chatgpt-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1730,7 +1730,7 @@
             {
               "node_type": "item",
               "title": "lichess-org/lichobile",
-              "description": null,
+              "description": "lichess-org/lichobile",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1781,7 +1781,7 @@
             {
               "node_type": "item",
               "title": "MOIMOB/drinkable",
-              "description": null,
+              "description": "MOIMOB/drinkable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1823,7 +1823,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Contacts",
-              "description": null,
+              "description": "FossifyOrg/Contacts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1863,7 +1863,7 @@
             {
               "node_type": "item",
               "title": "markusfisch/Libra",
-              "description": null,
+              "description": "markusfisch/Libra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1901,7 +1901,7 @@
             {
               "node_type": "item",
               "title": "KDE/kdeconnect-kde",
-              "description": null,
+              "description": "KDE/kdeconnect-kde",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1910,11 +1910,11 @@
                 "id": 42725503,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-02T07:37:08Z",
+                "last_commit": "2026-10-03T03:43:06Z",
                 "open_issues": 0,
                 "owner": "KDE",
                 "repo": "kdeconnect-kde",
-                "stars": 4039,
+                "stars": 4040,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:25:33.541Z"
@@ -1929,7 +1929,7 @@
             {
               "node_type": "item",
               "title": "localsend/localsend",
-              "description": null,
+              "description": "localsend/localsend",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1938,11 +1938,11 @@
                 "id": 578822531,
                 "language": "Dart",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:19:48Z",
+                "last_commit": "2026-10-03T01:39:52Z",
                 "open_issues": 1088,
                 "owner": "localsend",
                 "repo": "localsend",
-                "stars": 93204,
+                "stars": 93214,
                 "topics": [
                   "dart",
                   "file-sharing",
@@ -1968,7 +1968,7 @@
             {
               "node_type": "item",
               "title": "Chooloo/koler",
-              "description": null,
+              "description": "Chooloo/koler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1999,7 +1999,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Phone",
-              "description": null,
+              "description": "FossifyOrg/Phone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2039,7 +2039,7 @@
             {
               "node_type": "item",
               "title": "hanjoongcho/aaf-easydiary",
-              "description": null,
+              "description": "hanjoongcho/aaf-easydiary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2077,7 +2077,7 @@
             {
               "node_type": "item",
               "title": "billthefarmer/diary",
-              "description": null,
+              "description": "billthefarmer/diary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2115,7 +2115,7 @@
             {
               "node_type": "item",
               "title": "TachibanaGeneralLaboratories/download-navi",
-              "description": null,
+              "description": "TachibanaGeneralLaboratories/download-navi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2147,7 +2147,7 @@
             {
               "node_type": "item",
               "title": "amir1376/ab-download-manager",
-              "description": null,
+              "description": "amir1376/ab-download-manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2160,7 +2160,7 @@
                 "open_issues": 455,
                 "owner": "amir1376",
                 "repo": "ab-download-manager",
-                "stars": 18213,
+                "stars": 18215,
                 "topics": [
                   "chrome",
                   "compose",
@@ -2197,7 +2197,7 @@
             {
               "node_type": "item",
               "title": "Aliucord/Aliucord",
-              "description": null,
+              "description": "Aliucord/Aliucord",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2207,7 +2207,7 @@
                 "language": "Kotlin",
                 "license": "OSL-3.0",
                 "last_commit": "2026-10-01T00:37:03Z",
-                "open_issues": 109,
+                "open_issues": 108,
                 "owner": "Aliucord",
                 "repo": "Aliucord",
                 "stars": 4877,
@@ -2230,7 +2230,7 @@
             {
               "node_type": "item",
               "title": "revenge-mod/revenge-bundle",
-              "description": null,
+              "description": "revenge-mod/revenge-bundle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2271,7 +2271,7 @@
             {
               "node_type": "item",
               "title": "ossappscollective/OSS-DocumentScanner",
-              "description": null,
+              "description": "ossappscollective/OSS-DocumentScanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2319,7 +2319,7 @@
             {
               "node_type": "item",
               "title": "Catrobat/Paintroid",
-              "description": null,
+              "description": "Catrobat/Paintroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2353,7 +2353,7 @@
             {
               "node_type": "item",
               "title": "foobnix/LibreraReader",
-              "description": null,
+              "description": "foobnix/LibreraReader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2381,7 +2381,7 @@
             {
               "node_type": "item",
               "title": "koreader/koreader",
-              "description": null,
+              "description": "koreader/koreader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2390,11 +2390,11 @@
                 "id": 8986217,
                 "language": "Lua",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T23:55:20Z",
-                "open_issues": 1374,
+                "last_commit": "2026-10-03T03:36:07Z",
+                "open_issues": 1375,
                 "owner": "koreader",
                 "repo": "koreader",
-                "stars": 30063,
+                "stars": 30064,
                 "topics": [
                   "cbz",
                   "djvu",
@@ -2430,7 +2430,7 @@
             {
               "node_type": "item",
               "title": "Pool-Of-Tears/Myne",
-              "description": null,
+              "description": "Pool-Of-Tears/Myne",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2481,7 +2481,7 @@
             {
               "node_type": "item",
               "title": "M66B/FairEmail",
-              "description": null,
+              "description": "M66B/FairEmail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2515,7 +2515,7 @@
             {
               "node_type": "item",
               "title": "thunderbird/thunderbird-android",
-              "description": null,
+              "description": "thunderbird/thunderbird-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2548,7 +2548,7 @@
             {
               "node_type": "item",
               "title": "ProtonMail/android-mail",
-              "description": null,
+              "description": "ProtonMail/android-mail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2576,7 +2576,7 @@
             {
               "node_type": "item",
               "title": "simple-login/Simple-Login-Android",
-              "description": null,
+              "description": "simple-login/Simple-Login-Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2610,7 +2610,7 @@
             {
               "node_type": "item",
               "title": "Droid-ify/client",
-              "description": null,
+              "description": "Droid-ify/client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2623,7 +2623,7 @@
                 "open_issues": 194,
                 "owner": "Droid-ify",
                 "repo": "client",
-                "stars": 7530,
+                "stars": 7532,
                 "topics": [
                   "android",
                   "android-application",
@@ -2645,7 +2645,7 @@
             {
               "node_type": "item",
               "title": "NeoApplications/Neo-Store",
-              "description": null,
+              "description": "NeoApplications/Neo-Store",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2655,10 +2655,10 @@
                 "language": "Kotlin",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T23:21:02Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "NeoApplications",
                 "repo": "Neo-Store",
-                "stars": 5313,
+                "stars": 5315,
                 "topics": [
                   "android",
                   "f-droid",
@@ -2678,7 +2678,7 @@
             {
               "node_type": "item",
               "title": "Nandanrmenon/florid",
-              "description": null,
+              "description": "Nandanrmenon/florid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2718,7 +2718,7 @@
             {
               "node_type": "item",
               "title": "zhanghai/MaterialFiles",
-              "description": null,
+              "description": "zhanghai/MaterialFiles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2731,7 +2731,7 @@
                 "open_issues": 615,
                 "owner": "zhanghai",
                 "repo": "MaterialFiles",
-                "stars": 9127,
+                "stars": 9128,
                 "topics": [
                   "android",
                   "android-application",
@@ -2753,7 +2753,7 @@
             {
               "node_type": "item",
               "title": "TeamAmaze/AmazeFileManager",
-              "description": null,
+              "description": "TeamAmaze/AmazeFileManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2793,7 +2793,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/File-Manager",
-              "description": null,
+              "description": "FossifyOrg/File-Manager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2833,7 +2833,7 @@
             {
               "node_type": "item",
               "title": "syncthing/syncthing-android",
-              "description": null,
+              "description": "syncthing/syncthing-android",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2867,7 +2867,7 @@
             {
               "node_type": "item",
               "title": "researchxxl/syncthing-android",
-              "description": null,
+              "description": "researchxxl/syncthing-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2897,7 +2897,7 @@
             {
               "node_type": "item",
               "title": "schlagmichdoch/PairDrop",
-              "description": null,
+              "description": "schlagmichdoch/PairDrop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2938,7 +2938,7 @@
             {
               "node_type": "item",
               "title": "sal0max/currencies",
-              "description": null,
+              "description": "sal0max/currencies",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2971,7 +2971,7 @@
             {
               "node_type": "item",
               "title": "AndreAle94/moneywallet",
-              "description": null,
+              "description": "AndreAle94/moneywallet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3002,7 +3002,7 @@
             {
               "node_type": "item",
               "title": "mtotschnig/MyExpenses",
-              "description": null,
+              "description": "mtotschnig/MyExpenses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3030,7 +3030,7 @@
             {
               "node_type": "item",
               "title": "jerameel/sushi",
-              "description": null,
+              "description": "jerameel/sushi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3064,7 +3064,7 @@
             {
               "node_type": "item",
               "title": "ankidroid/Anki-Android",
-              "description": null,
+              "description": "ankidroid/Anki-Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3101,7 +3101,7 @@
             {
               "node_type": "item",
               "title": "rh-id/a-flash-deck",
-              "description": null,
+              "description": "rh-id/a-flash-deck",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3139,7 +3139,7 @@
             {
               "node_type": "item",
               "title": "uestueab/app-thesis",
-              "description": null,
+              "description": "uestueab/app-thesis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3173,7 +3173,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Gallery",
-              "description": null,
+              "description": "FossifyOrg/Gallery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3207,7 +3207,7 @@
             {
               "node_type": "item",
               "title": "deckerst/aves",
-              "description": null,
+              "description": "deckerst/aves",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3217,10 +3217,10 @@
                 "language": "Dart",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T20:10:27Z",
-                "open_issues": 161,
+                "open_issues": 162,
                 "owner": "deckerst",
                 "repo": "aves",
-                "stars": 5340,
+                "stars": 5341,
                 "topics": [
                   "android",
                   "exif",
@@ -3251,7 +3251,7 @@
             {
               "node_type": "item",
               "title": "IacobIonut01/ReFra",
-              "description": null,
+              "description": "IacobIonut01/ReFra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3291,7 +3291,7 @@
             {
               "node_type": "item",
               "title": "Anuken/Mindustry",
-              "description": null,
+              "description": "Anuken/Mindustry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3300,11 +3300,11 @@
                 "id": 89822531,
                 "language": "Java",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T00:00:46Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-03T03:58:42Z",
+                "open_issues": 39,
                 "owner": "Anuken",
                 "repo": "Mindustry",
-                "stars": 29190,
+                "stars": 29193,
                 "topics": [
                   "android",
                   "desktop",
@@ -3330,7 +3330,7 @@
             {
               "node_type": "item",
               "title": "00-Evan/shattered-pixel-dungeon",
-              "description": null,
+              "description": "00-Evan/shattered-pixel-dungeon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3343,7 +3343,7 @@
                 "open_issues": 9,
                 "owner": "00-Evan",
                 "repo": "shattered-pixel-dungeon",
-                "stars": 6596,
+                "stars": 6599,
                 "topics": [
                   "android",
                   "game",
@@ -3365,7 +3365,7 @@
             {
               "node_type": "item",
               "title": "chrisboyle/sgtpuzzles",
-              "description": null,
+              "description": "chrisboyle/sgtpuzzles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3397,7 +3397,7 @@
             {
               "node_type": "item",
               "title": "SecUSo/privacy-friendly-sudoku",
-              "description": null,
+              "description": "SecUSo/privacy-friendly-sudoku",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3425,7 +3425,7 @@
             {
               "node_type": "item",
               "title": "yairm210/Unciv",
-              "description": null,
+              "description": "yairm210/Unciv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3438,7 +3438,7 @@
                 "open_issues": 121,
                 "owner": "yairm210",
                 "repo": "Unciv",
-                "stars": 11385,
+                "stars": 11386,
                 "topics": [
                   "4x",
                   "4x-strategy-game",
@@ -3464,7 +3464,7 @@
             {
               "node_type": "item",
               "title": "mwageringel/everest",
-              "description": null,
+              "description": "mwageringel/everest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3497,7 +3497,7 @@
             {
               "node_type": "item",
               "title": "luanti-org/luanti",
-              "description": null,
+              "description": "luanti-org/luanti",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3507,10 +3507,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T18:06:24Z",
-                "open_issues": 1515,
+                "open_issues": 1516,
                 "owner": "luanti-org",
                 "repo": "luanti",
-                "stars": 13669,
+                "stars": 13672,
                 "topics": [
                   "c-plus-plus",
                   "cpp17",
@@ -3540,7 +3540,7 @@
             {
               "node_type": "item",
               "title": "slapperwan/gh4a",
-              "description": null,
+              "description": "slapperwan/gh4a",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3573,7 +3573,7 @@
             {
               "node_type": "item",
               "title": "namanshergill/diohub",
-              "description": null,
+              "description": "namanshergill/diohub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3616,7 +3616,7 @@
             {
               "node_type": "item",
               "title": "ImranR98/Obtainium",
-              "description": null,
+              "description": "ImranR98/Obtainium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3629,7 +3629,7 @@
                 "open_issues": 391,
                 "owner": "ImranR98",
                 "repo": "Obtainium",
-                "stars": 20147,
+                "stars": 20149,
                 "topics": [
                   "android",
                   "apk",
@@ -3661,7 +3661,7 @@
             {
               "node_type": "item",
               "title": "accrescent/accrescent",
-              "description": null,
+              "description": "accrescent/accrescent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3704,7 +3704,7 @@
             {
               "node_type": "item",
               "title": "CorruptedArk/did-i-take-my-meds",
-              "description": null,
+              "description": "CorruptedArk/did-i-take-my-meds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3732,7 +3732,7 @@
             {
               "node_type": "item",
               "title": "rh-id/a-medic-log",
-              "description": null,
+              "description": "rh-id/a-medic-log",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3767,7 +3767,7 @@
             {
               "node_type": "item",
               "title": "Futsch1/medTimer",
-              "description": null,
+              "description": "Futsch1/medTimer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3808,7 +3808,7 @@
             {
               "node_type": "item",
               "title": "Arcticons-Team/Arcticons",
-              "description": null,
+              "description": "Arcticons-Team/Arcticons",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3846,7 +3846,7 @@
             {
               "node_type": "item",
               "title": "Delta-Icons/android",
-              "description": null,
+              "description": "Delta-Icons/android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3890,7 +3890,7 @@
             {
               "node_type": "item",
               "title": "caydey/ffshare",
-              "description": null,
+              "description": "caydey/ffshare",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3925,7 +3925,7 @@
             {
               "node_type": "item",
               "title": "T8RIN/ImageToolbox",
-              "description": null,
+              "description": "T8RIN/ImageToolbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3980,7 +3980,7 @@
             {
               "node_type": "item",
               "title": "signalapp/Signal-Android",
-              "description": null,
+              "description": "signalapp/Signal-Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4008,7 +4008,7 @@
             {
               "node_type": "item",
               "title": "mollyim/mollyim-android",
-              "description": null,
+              "description": "mollyim/mollyim-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4036,7 +4036,7 @@
             {
               "node_type": "item",
               "title": "oxen-io/session-android",
-              "description": null,
+              "description": "oxen-io/session-android",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4064,7 +4064,7 @@
             {
               "node_type": "item",
               "title": "NekoX-Dev/NekoX",
-              "description": null,
+              "description": "NekoX-Dev/NekoX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4092,7 +4092,7 @@
             {
               "node_type": "item",
               "title": "OwlGramDev/OwlGram",
-              "description": null,
+              "description": "OwlGramDev/OwlGram",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4124,7 +4124,7 @@
             {
               "node_type": "item",
               "title": "deltachat/deltachat-android",
-              "description": null,
+              "description": "deltachat/deltachat-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4164,7 +4164,7 @@
             {
               "node_type": "item",
               "title": "HeliBorg/HeliBoard",
-              "description": null,
+              "description": "HeliBorg/HeliBoard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4192,7 +4192,7 @@
             {
               "node_type": "item",
               "title": "fcitx5-android/fcitx5-android",
-              "description": null,
+              "description": "fcitx5-android/fcitx5-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4229,7 +4229,7 @@
             {
               "node_type": "item",
               "title": "florisboard/florisboard",
-              "description": null,
+              "description": "florisboard/florisboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4263,7 +4263,7 @@
             {
               "node_type": "item",
               "title": "dessalines/thumb-key",
-              "description": null,
+              "description": "dessalines/thumb-key",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4296,7 +4296,7 @@
             {
               "node_type": "item",
               "title": "Julow/Unexpected-Keyboard",
-              "description": null,
+              "description": "Julow/Unexpected-Keyboard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4334,7 +4334,7 @@
             {
               "node_type": "item",
               "title": "JLindemann42/Atomic-Periodic-Table.Android",
-              "description": null,
+              "description": "JLindemann42/Atomic-Periodic-Table.Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4375,7 +4375,7 @@
             {
               "node_type": "item",
               "title": "SimonSchubert/LinuxCommandLibrary",
-              "description": null,
+              "description": "SimonSchubert/LinuxCommandLibrary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4384,7 +4384,7 @@
                 "id": 20982177,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:08:03Z",
+                "last_commit": "2026-10-03T02:06:57Z",
                 "open_issues": 25,
                 "owner": "SimonSchubert",
                 "repo": "LinuxCommandLibrary",
@@ -4415,7 +4415,7 @@
             {
               "node_type": "item",
               "title": "MM2-0/Kvaesitso",
-              "description": null,
+              "description": "MM2-0/Kvaesitso",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4448,7 +4448,7 @@
             {
               "node_type": "item",
               "title": "LawnchairLauncher/lawnchair",
-              "description": null,
+              "description": "LawnchairLauncher/lawnchair",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4484,7 +4484,7 @@
             {
               "node_type": "item",
               "title": "NeoApplications/Neo-Launcher",
-              "description": null,
+              "description": "NeoApplications/Neo-Launcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4515,7 +4515,7 @@
             {
               "node_type": "item",
               "title": "Neamar/KISS",
-              "description": null,
+              "description": "Neamar/KISS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4543,7 +4543,7 @@
             {
               "node_type": "item",
               "title": "iamrasel/lunar-launcher",
-              "description": null,
+              "description": "iamrasel/lunar-launcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4585,7 +4585,7 @@
             {
               "node_type": "item",
               "title": "LemmyNet/jerboa",
-              "description": null,
+              "description": "LemmyNet/jerboa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4620,7 +4620,7 @@
             {
               "node_type": "item",
               "title": "thunder-app/thunder",
-              "description": null,
+              "description": "thunder-app/thunder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4664,7 +4664,7 @@
             {
               "node_type": "item",
               "title": "organicmaps/organicmaps",
-              "description": null,
+              "description": "organicmaps/organicmaps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4673,7 +4673,7 @@
                 "id": 324829379,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:27:25Z",
+                "last_commit": "2026-10-03T04:10:11Z",
                 "open_issues": 3542,
                 "owner": "organicmaps",
                 "repo": "organicmaps",
@@ -4741,7 +4741,7 @@
             {
               "node_type": "item",
               "title": "osmandapp/OsmAnd",
-              "description": null,
+              "description": "osmandapp/OsmAnd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4775,7 +4775,7 @@
             {
               "node_type": "item",
               "title": "tuskyapp/Tusky",
-              "description": null,
+              "description": "tuskyapp/Tusky",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4819,7 +4819,7 @@
             {
               "node_type": "item",
               "title": "element-hq/element-android",
-              "description": null,
+              "description": "element-hq/element-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4857,7 +4857,7 @@
             {
               "node_type": "item",
               "title": "meditohq/medito-app",
-              "description": null,
+              "description": "meditohq/medito-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4895,7 +4895,7 @@
             {
               "node_type": "item",
               "title": "russellbanks/BuddhaQuotes",
-              "description": null,
+              "description": "russellbanks/BuddhaQuotes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4934,7 +4934,7 @@
             {
               "node_type": "item",
               "title": "MuntashirAkon/Metro",
-              "description": null,
+              "description": "MuntashirAkon/Metro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4962,7 +4962,7 @@
             {
               "node_type": "item",
               "title": "OxygenCobalt/Auxio",
-              "description": null,
+              "description": "OxygenCobalt/Auxio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5008,7 +5008,7 @@
             {
               "node_type": "item",
               "title": "enricocid/Music-Player-GO",
-              "description": null,
+              "description": "enricocid/Music-Player-GO",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5050,7 +5050,7 @@
             {
               "node_type": "item",
               "title": "VinylMusicPlayer/VinylMusicPlayer",
-              "description": null,
+              "description": "VinylMusicPlayer/VinylMusicPlayer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5086,7 +5086,7 @@
             {
               "node_type": "item",
               "title": "Iamlooker/Howl",
-              "description": null,
+              "description": "Iamlooker/Howl",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5116,7 +5116,7 @@
             {
               "node_type": "item",
               "title": "LUC4N3X/Levyra-deepsound",
-              "description": null,
+              "description": "LUC4N3X/Levyra-deepsound",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5125,11 +5125,11 @@
                 "id": 1283291297,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T00:36:18Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-03T04:12:32Z",
+                "open_issues": 3,
                 "owner": "LUC4N3X",
                 "repo": "Levyra-deepsound",
-                "stars": 490,
+                "stars": 496,
                 "topics": [
                   "ad-free-music",
                   "android",
@@ -5165,7 +5165,7 @@
             {
               "node_type": "item",
               "title": "gauravjot/android-noad-music-player",
-              "description": null,
+              "description": "gauravjot/android-noad-music-player",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5197,7 +5197,7 @@
             {
               "node_type": "item",
               "title": "moritz-weber/mucke",
-              "description": null,
+              "description": "moritz-weber/mucke",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5232,7 +5232,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Music-Player",
-              "description": null,
+              "description": "FossifyOrg/Music-Player",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5241,8 +5241,8 @@
                 "id": 564870379,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T11:04:07Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-03T01:47:34Z",
+                "open_issues": 95,
                 "owner": "FossifyOrg",
                 "repo": "Music-Player",
                 "stars": 931,
@@ -5266,7 +5266,7 @@
             {
               "node_type": "item",
               "title": "martinmimigames/tiny-music-player",
-              "description": null,
+              "description": "martinmimigames/tiny-music-player",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5310,7 +5310,7 @@
             {
               "node_type": "item",
               "title": "kurupdevs/KuruBeats",
-              "description": null,
+              "description": "kurupdevs/KuruBeats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5355,7 +5355,7 @@
             {
               "node_type": "item",
               "title": "kawaiiDango/pano-scrobbler",
-              "description": null,
+              "description": "kawaiiDango/pano-scrobbler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5390,7 +5390,7 @@
             {
               "node_type": "item",
               "title": "simple-last-fm-scrobbler/sls",
-              "description": null,
+              "description": "simple-last-fm-scrobbler/sls",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5434,7 +5434,7 @@
             {
               "node_type": "item",
               "title": "OmGodse/Notally",
-              "description": null,
+              "description": "OmGodse/Notally",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5468,7 +5468,7 @@
             {
               "node_type": "item",
               "title": "laurent22/joplin",
-              "description": null,
+              "description": "laurent22/joplin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5481,7 +5481,7 @@
                 "open_issues": 644,
                 "owner": "laurent22",
                 "repo": "joplin",
-                "stars": 56564,
+                "stars": 56566,
                 "topics": [
                   "android",
                   "dropbox",
@@ -5515,7 +5515,7 @@
             {
               "node_type": "item",
               "title": "keshav-space/safenotes",
-              "description": null,
+              "description": "keshav-space/safenotes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5556,7 +5556,7 @@
             {
               "node_type": "item",
               "title": "gsantner/markor",
-              "description": null,
+              "description": "gsantner/markor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5605,7 +5605,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Notes",
-              "description": null,
+              "description": "FossifyOrg/Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5645,7 +5645,7 @@
             {
               "node_type": "item",
               "title": "mtotschnig/OCR",
-              "description": null,
+              "description": "mtotschnig/OCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5679,7 +5679,7 @@
             {
               "node_type": "item",
               "title": "CollaboraOnline/online",
-              "description": null,
+              "description": "CollaboraOnline/online",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5727,7 +5727,7 @@
             {
               "node_type": "item",
               "title": "MuntashirAkon/AppManager",
-              "description": null,
+              "description": "MuntashirAkon/AppManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5740,7 +5740,7 @@
                 "open_issues": 198,
                 "owner": "MuntashirAkon",
                 "repo": "AppManager",
-                "stars": 9113,
+                "stars": 9114,
                 "topics": [
                   "adb",
                   "android",
@@ -5761,7 +5761,7 @@
             {
               "node_type": "item",
               "title": "SmartPack/PackageManager",
-              "description": null,
+              "description": "SmartPack/PackageManager",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5795,7 +5795,7 @@
             {
               "node_type": "item",
               "title": "bitwarden/mobile",
-              "description": null,
+              "description": "bitwarden/mobile",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5833,7 +5833,7 @@
             {
               "node_type": "item",
               "title": "PhilippC/keepass2android",
-              "description": null,
+              "description": "PhilippC/keepass2android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5867,7 +5867,7 @@
             {
               "node_type": "item",
               "title": "Kunzisoft/KeePassDX",
-              "description": null,
+              "description": "Kunzisoft/KeePassDX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5880,7 +5880,7 @@
                 "open_issues": 545,
                 "owner": "Kunzisoft",
                 "repo": "KeePassDX",
-                "stars": 7405,
+                "stars": 7407,
                 "topics": [
                   "android",
                   "android-application",
@@ -5917,7 +5917,7 @@
             {
               "node_type": "item",
               "title": "GrapheneOS/PdfViewer",
-              "description": null,
+              "description": "GrapheneOS/PdfViewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5958,7 +5958,7 @@
             {
               "node_type": "item",
               "title": "aeri/Florae",
-              "description": null,
+              "description": "aeri/Florae",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5998,7 +5998,7 @@
             {
               "node_type": "item",
               "title": "grote/Transportr",
-              "description": null,
+              "description": "grote/Transportr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6036,7 +6036,7 @@
             {
               "node_type": "item",
               "title": "AntennaPod/AntennaPod",
-              "description": null,
+              "description": "AntennaPod/AntennaPod",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6075,7 +6075,7 @@
             {
               "node_type": "item",
               "title": "Docile-Alligator/Infinity-For-Reddit",
-              "description": null,
+              "description": "Docile-Alligator/Infinity-For-Reddit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6114,7 +6114,7 @@
             {
               "node_type": "item",
               "title": "m-i-n-a-r/randomix",
-              "description": null,
+              "description": "m-i-n-a-r/randomix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6163,7 +6163,7 @@
             {
               "node_type": "item",
               "title": "ReadYouApp/ReadYou",
-              "description": null,
+              "description": "ReadYouApp/ReadYou",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6176,7 +6176,7 @@
                 "open_issues": 477,
                 "owner": "ReadYouApp",
                 "repo": "ReadYou",
-                "stars": 7566,
+                "stars": 7568,
                 "topics": [
                   "android",
                   "compose",
@@ -6201,7 +6201,7 @@
             {
               "node_type": "item",
               "title": "jocmp/capyreader",
-              "description": null,
+              "description": "jocmp/capyreader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6251,7 +6251,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Messages",
-              "description": null,
+              "description": "FossifyOrg/Messages",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6260,11 +6260,11 @@
                 "id": 502522337,
                 "language": "Kotlin",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T11:04:01Z",
-                "open_issues": 201,
+                "last_commit": "2026-10-03T01:47:25Z",
+                "open_issues": 200,
                 "owner": "FossifyOrg",
                 "repo": "Messages",
-                "stars": 1570,
+                "stars": 1571,
                 "topics": [
                   "android",
                   "foss",
@@ -6285,7 +6285,7 @@
             {
               "node_type": "item",
               "title": "quik-sms/quik",
-              "description": null,
+              "description": "quik-sms/quik",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6319,7 +6319,7 @@
             {
               "node_type": "item",
               "title": "jellyfin/jellyfin-android",
-              "description": null,
+              "description": "jellyfin/jellyfin-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6329,7 +6329,7 @@
                 "language": "Kotlin",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-02T17:00:41Z",
-                "open_issues": 203,
+                "open_issues": 202,
                 "owner": "jellyfin",
                 "repo": "jellyfin-android",
                 "stars": 2791,
@@ -6352,7 +6352,7 @@
             {
               "node_type": "item",
               "title": "jarnedemeulemeester/findroid",
-              "description": null,
+              "description": "jarnedemeulemeester/findroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6390,7 +6390,7 @@
             {
               "node_type": "item",
               "title": "AudileTeam/Audile",
-              "description": null,
+              "description": "AudileTeam/Audile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6437,7 +6437,7 @@
             {
               "node_type": "item",
               "title": "vhaudiquet/BladePlayer",
-              "description": null,
+              "description": "vhaudiquet/BladePlayer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6478,7 +6478,7 @@
             {
               "node_type": "item",
               "title": "connectbot/connectbot",
-              "description": null,
+              "description": "connectbot/connectbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6519,7 +6519,7 @@
             {
               "node_type": "item",
               "title": "sky-map-team/stardroid",
-              "description": null,
+              "description": "sky-map-team/stardroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6553,7 +6553,7 @@
             {
               "node_type": "item",
               "title": "recloudstream/cloudstream",
-              "description": null,
+              "description": "recloudstream/cloudstream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6588,7 +6588,7 @@
             {
               "node_type": "item",
               "title": "DatL4g/Mimasu-Extension",
-              "description": null,
+              "description": "DatL4g/Mimasu-Extension",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6627,7 +6627,7 @@
             {
               "node_type": "item",
               "title": "ligi/SurvivalManual",
-              "description": null,
+              "description": "ligi/SurvivalManual",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6662,7 +6662,7 @@
             {
               "node_type": "item",
               "title": "kylecorry31/Trail-Sense",
-              "description": null,
+              "description": "kylecorry31/Trail-Sense",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6711,7 +6711,7 @@
             {
               "node_type": "item",
               "title": "Kr0oked/Compass",
-              "description": null,
+              "description": "Kr0oked/Compass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6749,7 +6749,7 @@
             {
               "node_type": "item",
               "title": "d4rken-org/sdmaid-se",
-              "description": null,
+              "description": "d4rken-org/sdmaid-se",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6762,7 +6762,7 @@
                 "open_issues": 21,
                 "owner": "d4rken-org",
                 "repo": "sdmaid-se",
-                "stars": 7653,
+                "stars": 7656,
                 "topics": [
                   "android",
                   "cleaner",
@@ -6790,7 +6790,7 @@
             {
               "node_type": "item",
               "title": "termux/termux-app",
-              "description": null,
+              "description": "termux/termux-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6800,10 +6800,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-26T05:11:44Z",
-                "open_issues": 628,
+                "open_issues": 629,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 61844,
+                "stars": 61851,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -6830,7 +6830,7 @@
             {
               "node_type": "item",
               "title": "Acode-Foundation/Acode",
-              "description": null,
+              "description": "Acode-Foundation/Acode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6840,10 +6840,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-01T21:37:06Z",
-                "open_issues": 105,
+                "open_issues": 104,
                 "owner": "Acode-Foundation",
                 "repo": "Acode",
-                "stars": 7219,
+                "stars": 7220,
                 "topics": [
                   "android-application",
                   "code-editor",
@@ -6862,7 +6862,7 @@
             {
               "node_type": "item",
               "title": "RohitKushvaha01/Xed-Editor",
-              "description": null,
+              "description": "RohitKushvaha01/Xed-Editor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6896,7 +6896,7 @@
             {
               "node_type": "item",
               "title": "adrcotfas/goodtime",
-              "description": null,
+              "description": "adrcotfas/goodtime",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6929,7 +6929,7 @@
             {
               "node_type": "item",
               "title": "rozPierog/Cofi",
-              "description": null,
+              "description": "rozPierog/Cofi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6973,7 +6973,7 @@
             {
               "node_type": "item",
               "title": "woheller69/eggtimer",
-              "description": null,
+              "description": "woheller69/eggtimer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7003,7 +7003,7 @@
             {
               "node_type": "item",
               "title": "ncosgray/cuppa_mobile",
-              "description": null,
+              "description": "ncosgray/cuppa_mobile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7043,7 +7043,7 @@
             {
               "node_type": "item",
               "title": "tasks/tasks",
-              "description": null,
+              "description": "tasks/tasks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7075,7 +7075,7 @@
             {
               "node_type": "item",
               "title": "RayLeaf-Studios/PocketPlan",
-              "description": null,
+              "description": "RayLeaf-Studios/PocketPlan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7105,7 +7105,7 @@
             {
               "node_type": "item",
               "title": "darkmoonight/Zest",
-              "description": null,
+              "description": "darkmoonight/Zest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7147,7 +7147,7 @@
             {
               "node_type": "item",
               "title": "lolo-io/OneList",
-              "description": null,
+              "description": "lolo-io/OneList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7181,7 +7181,7 @@
             {
               "node_type": "item",
               "title": "albertvaka/bettercounter",
-              "description": null,
+              "description": "albertvaka/bettercounter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7209,7 +7209,7 @@
             {
               "node_type": "item",
               "title": "m-i-n-a-r/birday",
-              "description": null,
+              "description": "m-i-n-a-r/birday",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7247,7 +7247,7 @@
             {
               "node_type": "item",
               "title": "Pool-Of-Tears/GreenStash",
-              "description": null,
+              "description": "Pool-Of-Tears/GreenStash",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7294,7 +7294,7 @@
             {
               "node_type": "item",
               "title": "Mazahir26/koduko",
-              "description": null,
+              "description": "Mazahir26/koduko",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7329,7 +7329,7 @@
             {
               "node_type": "item",
               "title": "iSoron/uhabits",
-              "description": null,
+              "description": "iSoron/uhabits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7364,7 +7364,7 @@
             {
               "node_type": "item",
               "title": "xpavle00/Habo",
-              "description": null,
+              "description": "xpavle00/Habo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7402,7 +7402,7 @@
             {
               "node_type": "item",
               "title": "FriesI23/mhabit",
-              "description": null,
+              "description": "FriesI23/mhabit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7444,7 +7444,7 @@
             {
               "node_type": "item",
               "title": "Official page",
-              "description": null,
+              "description": "FriesI23/mhabit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7493,7 +7493,7 @@
             {
               "node_type": "item",
               "title": "mateusz-bak/openreads",
-              "description": null,
+              "description": "mateusz-bak/openreads",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7532,7 +7532,7 @@
             {
               "node_type": "item",
               "title": "trakt/showly",
-              "description": null,
+              "description": "trakt/showly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7560,7 +7560,7 @@
             {
               "node_type": "item",
               "title": "Razeeman/Android-SimpleTimeTracker",
-              "description": null,
+              "description": "Razeeman/Android-SimpleTimeTracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7593,7 +7593,7 @@
             {
               "node_type": "item",
               "title": "seaglade/Sobriety",
-              "description": null,
+              "description": "seaglade/Sobriety",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7631,7 +7631,7 @@
             {
               "node_type": "item",
               "title": "Crazy-Marvin/VacationDays",
-              "description": null,
+              "description": "Crazy-Marvin/VacationDays",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7667,7 +7667,7 @@
             {
               "node_type": "item",
               "title": "vmiklos/plees-tracker",
-              "description": null,
+              "description": "vmiklos/plees-tracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7700,7 +7700,7 @@
             {
               "node_type": "item",
               "title": "Codeberg",
-              "description": null,
+              "description": "markusfisch/ScreenTime",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7734,7 +7734,7 @@
             {
               "node_type": "item",
               "title": "sakusaku3939/DeepLAndroid",
-              "description": null,
+              "description": "sakusaku3939/DeepLAndroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7766,7 +7766,7 @@
             {
               "node_type": "item",
               "title": "ManeraKai/simplytranslate_mobile",
-              "description": null,
+              "description": "ManeraKai/simplytranslate_mobile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7804,7 +7804,7 @@
             {
               "node_type": "item",
               "title": "twireapp/Twire",
-              "description": null,
+              "description": "twireapp/Twire",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7839,7 +7839,7 @@
             {
               "node_type": "item",
               "title": "crackededed/Xtra",
-              "description": null,
+              "description": "crackededed/Xtra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7871,7 +7871,7 @@
             {
               "node_type": "item",
               "title": "tommyxchow/frosty",
-              "description": null,
+              "description": "tommyxchow/frosty",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7926,7 +7926,7 @@
             {
               "node_type": "item",
               "title": "ferraridamiano/ConverterNOW",
-              "description": null,
+              "description": "ferraridamiano/ConverterNOW",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7974,7 +7974,7 @@
             {
               "node_type": "item",
               "title": "leon-cleaning-services/leon",
-              "description": null,
+              "description": "leon-cleaning-services/leon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8020,7 +8020,7 @@
             {
               "node_type": "item",
               "title": "moneytoo/Player",
-              "description": null,
+              "description": "moneytoo/Player",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8059,7 +8059,7 @@
             {
               "node_type": "item",
               "title": "mpv-android/mpv-android",
-              "description": null,
+              "description": "mpv-android/mpv-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8094,7 +8094,7 @@
             {
               "node_type": "item",
               "title": "abdallahmehiz/mpvKt",
-              "description": null,
+              "description": "abdallahmehiz/mpvKt",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8132,7 +8132,7 @@
             {
               "node_type": "item",
               "title": "nova-video-player/aos-AVP",
-              "description": null,
+              "description": "nova-video-player/aos-AVP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8173,7 +8173,7 @@
             {
               "node_type": "item",
               "title": "gujjwal00/avnc",
-              "description": null,
+              "description": "gujjwal00/avnc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8214,7 +8214,7 @@
             {
               "node_type": "item",
               "title": "bk138/droidVNC-NG",
-              "description": null,
+              "description": "bk138/droidVNC-NG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8256,7 +8256,7 @@
             {
               "node_type": "item",
               "title": "Dimowner/AudioRecorder",
-              "description": null,
+              "description": "Dimowner/AudioRecorder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8284,7 +8284,7 @@
             {
               "node_type": "item",
               "title": "FossifyOrg/Voice-Recorder",
-              "description": null,
+              "description": "FossifyOrg/Voice-Recorder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8324,7 +8324,7 @@
             {
               "node_type": "item",
               "title": "breezy-weather/breezy-weather",
-              "description": null,
+              "description": "breezy-weather/breezy-weather",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8337,7 +8337,7 @@
                 "open_issues": 113,
                 "owner": "breezy-weather",
                 "repo": "breezy-weather",
-                "stars": 11561,
+                "stars": 11562,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:25:33.541Z"
@@ -8352,7 +8352,7 @@
             {
               "node_type": "item",
               "title": "SpicyChair/pluvia_weather_flutter",
-              "description": null,
+              "description": "SpicyChair/pluvia_weather_flutter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8386,7 +8386,7 @@
             {
               "node_type": "item",
               "title": "martykan/forecastie",
-              "description": null,
+              "description": "martykan/forecastie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8417,7 +8417,7 @@
             {
               "node_type": "item",
               "title": "Antonis427/veterondo",
-              "description": null,
+              "description": "Antonis427/veterondo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8445,7 +8445,7 @@
             {
               "node_type": "item",
               "title": "darkmoonight/Rain",
-              "description": null,
+              "description": "darkmoonight/Rain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8488,7 +8488,7 @@
             {
               "node_type": "item",
               "title": "woheller69/omweather",
-              "description": null,
+              "description": "woheller69/omweather",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8522,7 +8522,7 @@
             {
               "node_type": "item",
               "title": "wikimedia/apps-android-wikipedia",
-              "description": null,
+              "description": "wikimedia/apps-android-wikipedia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8531,8 +8531,8 @@
                 "id": 13862999,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T00:11:39Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-03T01:42:21Z",
+                "open_issues": 45,
                 "owner": "wikimedia",
                 "repo": "apps-android-wikipedia",
                 "stars": 3034,
@@ -8563,7 +8563,7 @@
             {
               "node_type": "item",
               "title": "kiwix/kiwix-android",
-              "description": null,
+              "description": "kiwix/kiwix-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8604,7 +8604,7 @@
             {
               "node_type": "item",
               "title": "TeamNewPipe/NewPipe",
-              "description": null,
+              "description": "TeamNewPipe/NewPipe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8617,7 +8617,7 @@
                 "open_issues": 1473,
                 "owner": "TeamNewPipe",
                 "repo": "NewPipe",
-                "stars": 39846,
+                "stars": 39845,
                 "topics": [
                   "4k",
                   "android",
@@ -8644,7 +8644,7 @@
             {
               "node_type": "item",
               "title": "polymorphicshade/Tubular",
-              "description": null,
+              "description": "polymorphicshade/Tubular",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8672,7 +8672,7 @@
             {
               "node_type": "item",
               "title": "InfinityLoop1308/PipePipe",
-              "description": null,
+              "description": "InfinityLoop1308/PipePipe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8682,10 +8682,10 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-26T08:12:59Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "InfinityLoop1308",
                 "repo": "PipePipe",
-                "stars": 6884,
+                "stars": 6883,
                 "topics": [
                   "android",
                   "mediaplayer",
@@ -8706,7 +8706,7 @@
             {
               "node_type": "item",
               "title": "lamarios/clipious",
-              "description": null,
+              "description": "lamarios/clipious",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8737,7 +8737,7 @@
             {
               "node_type": "item",
               "title": "SkyTubeTeam/SkyTube",
-              "description": null,
+              "description": "SkyTubeTeam/SkyTube",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8774,7 +8774,7 @@
             {
               "node_type": "item",
               "title": "libre-tube/LibreTube",
-              "description": null,
+              "description": "libre-tube/LibreTube",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8810,7 +8810,7 @@
             {
               "node_type": "item",
               "title": "SongTube/SongTube-App",
-              "description": null,
+              "description": "SongTube/SongTube-App",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8838,7 +8838,7 @@
             {
               "node_type": "item",
               "title": "fast4x/RiMusic",
-              "description": null,
+              "description": "fast4x/RiMusic",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8866,7 +8866,7 @@
             {
               "node_type": "item",
               "title": "deniscerri/ytdlnis",
-              "description": null,
+              "description": "deniscerri/ytdlnis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8879,7 +8879,7 @@
                 "open_issues": 68,
                 "owner": "deniscerri",
                 "repo": "ytdlnis",
-                "stars": 10386,
+                "stars": 10387,
                 "topics": [
                   "android",
                   "audio",
@@ -8907,7 +8907,7 @@
             {
               "node_type": "item",
               "title": "JunkFood02/Seal",
-              "description": null,
+              "description": "JunkFood02/Seal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8920,7 +8920,7 @@
                 "open_issues": 729,
                 "owner": "JunkFood02",
                 "repo": "Seal",
-                "stars": 29386,
+                "stars": 29389,
                 "topics": [
                   "android",
                   "f-droid",
@@ -8957,7 +8957,7 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-10-01T12:15:29Z",
-            "open_issues": 615,
+            "open_issues": 616,
             "owner": "pluja",
             "repo": "awesome-privacy",
             "stars": 19895,
@@ -9022,7 +9022,7 @@
             "open_issues": 100,
             "owner": "JStumpp",
             "repo": "awesome-android",
-            "stars": 12369,
+            "stars": 12368,
             "topics": [
               "android-development",
               "android-library",
@@ -9041,7 +9041,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:32:40.957Z",
+    "last_updated": "2026-10-03T04:21:17.438Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: Curated list of THE BEST FOSS Android apps to maximize your freedom & privacy!",
